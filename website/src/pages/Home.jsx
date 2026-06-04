@@ -245,31 +245,31 @@ export default function Home() {
             {
               name: "Kajaria",
               desc: "India's No. 1 Tile Company.",
-              logo: "/images/brands/kajaria.svg",
+              logo: "images/brands/kajaria.svg",
               url: "https://www.kajariaceramics.com/"
             },
             {
               name: "Johnson",
               desc: "Heritage of Quality since 1958.",
-              logo: "/images/brands/johnson.svg",
+              logo: "images/brands/johnson.svg",
               url: "https://hrjohnsonindia.com/"
             },
             {
               name: "Somany",
               desc: "Innovation & Design Leadership.",
-              logo: "/images/brands/somany.svg",
+              logo: "images/brands/somany.svg",
               url: "https://www.somanyceramics.com/"
             },
             {
               name: "Nitco",
               desc: "Premium Surface Solutions.",
-              logo: "/images/brands/nitco.svg",
+              logo: "images/brands/nitco.svg",
               url: "https://www.nitco.in/"
             },
             {
               name: "RAK Ceramics",
               desc: "Global lifestyle ceramic brand.",
-              logo: "/images/brands/rak.svg",
+              logo: "images/brands/rak.svg",
               url: "https://www.rakceramics.com/india/en-in"
             }
           ].map((brand, i) => (

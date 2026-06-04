@@ -29,7 +29,7 @@ export default function Navbar() {
         <div className="nav-container">
           {/* Brand Section */}
           <Link to="/" className="brand-section">
-            <img src="/images/logo.png" alt="Jai Hanuman Logo" className="brand-logo" />
+            <img src="images/logo.png" alt="Jai Hanuman Logo" className="brand-logo" />
             <div className="brand-name">
               <h1>JAI HANUMAN</h1>
               <span>TILES</span>
