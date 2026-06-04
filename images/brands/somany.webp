@@ -1,0 +1,2389 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <link rel="alternate" href="https://www.somanyceramics.com/404" hreflang="en-IN" />
+    
+    <title> Page Not Found </title>
+    <meta name="description" content="Page Not Found"/>
+    <link rel="canonical" href="https://www.somanyceramics.com/404" />
+    <meta name="keywords" content=""/>
+    
+    <meta charset="utf-8" />
+    <meta name="p:domain_verify" content="799f97f68bdb382afecfc5622979eccd"/>
+    <meta name="robots" content="index, follow" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="/static/web/css/bootstrap.css" />    
+    <link rel="stylesheet" href="/static/web/css/style.css" />
+    <link rel="stylesheet" href="/static/web/css/style-2.css" />
+    <link rel="stylesheet" href="/static/web/css/responsive.css" />
+    <link rel="shortcut icon" href="/static/web/images/favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="/static/web/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="/static/web/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="/static/web/css/aos.css">
+    <link  rel="icon" type="image/x-icon" href="/static/web/images/favicon.ico" />
+<link  rel="shortcut icon" type="image/x-icon" href="/static/web/images/favicon.ico" />
+    <!-- Colorbox -->
+    <link rel="stylesheet" href="/static/web/css/colorbox.css">
+    <link href="/static/web/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/static/web/css/lightbox.min.css">
+    <link href="/static/web/css/jquery-ui.min.css" rel="stylesheet">
+
+	<link as="style" href="https://use.typekit.net/iyw6jyj.css" rel="preload"/>
+	<link rel="stylesheet" href="https://use.typekit.net/iyw6jyj.css" />
+    <script type="text/javascript" src="https://unpkg.com/default-passive-events"></script>
+
+    <link href="https://www.googletagmanager.com/gtm.js?id=GTM-MGFBDQH" rel="preload" as="script">
+    <link rel="dns-prefetch" href="https://www.googletagmanager.com" >
+    <link as="style" href="/static/web/css/jquery-ui.min.css" rel="preload"/>
+		<link rel="stylesheet" href="/static/web/css/jquery-ui.min.css" />
+    <!-- Google Tag Manager -->
+     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-MGFBDQH');
+      </script>
+      <!-- End Google Tag Manager -->
+
+<!-- Google tag (gtag.js) -->
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-11438695503"></script>
+    
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'AW-11438695503');
+    </script>
+    <!-- Meta Pixel Code -->
+    
+    <script>
+        !function(f,b,e,v,n,t,s)    
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window, document,'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '24244905721820305');
+        fbq('track', 'PageView');
+    </script>
+    
+    <noscript>
+      <img height="1" width="1" style="display:none" 
+      src="https://www.facebook.com/tr?id=24244905721820305&ev=PageView&noscript=1"/>
+    </noscript>
+    
+    <!-- End Meta Pixel Code -->
+<meta name="google-site-verification" content="y8loBLZmiQ2mJNGGiwXawvVZ61qTb4GYGtrLgLpltkQ" />
+<meta name="google-site-verification" content="oClm43ocW09i5g38nepGph9DESBd1fARj9EYlKYgz2k" />
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-623223443"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'AW-623223443');
+</script>
+<script>
+    function gtag_report_conversion(url) {
+      var callback = function () {
+        if (typeof(url) != 'undefined') {
+          window.location = url;
+        }
+      };
+      gtag('event', 'conversion', {
+          'send_to': 'AW-623223443/6kYACOCEqKMZEJPFlqkC',
+          'event_callback': callback
+      });
+      return false;
+    }
+    </script>
+</head>
+  <body>
+    <!-- Google Tag Manager (noscript) -->
+<noscript>
+  <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MGFBDQH" height="24" width="23" style="display:none;visibility:hidden">
+  </iframe>
+</noscript>
+
+<!-- End Google Tag Manager (noscript) -->
+<!-- Meta Pixel Code -->
+<script>
+  ! function(f, b, e, v, n, t, s) {
+    if (f.fbq) return;
+    n = f.fbq = function() {
+      n.callMethod ?
+        n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+    };
+    if (!f._fbq) f._fbq = n;
+    n.push = n;
+    n.loaded = !0;
+    n.version = '2.0';
+    n.queue = [];
+    t = b.createElement(e);
+    t.async = !0;
+    t.src = v;
+    s = b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t, s)
+  }(window, document, 'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '242709298850719');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=242709298850719&ev=PageView&noscript=1" /></noscript>
+<!-- End Meta Pixel Code -->
+<style>
+  .navbar-default .navbar-nav>li>a {
+    font-size: 17px;
+  }
+
+  .nav>li>a {
+    padding: 10px 9px;
+  }
+</style>
+<div id="product_loader"></div>
+<div id="myOverlay" class="overlay">
+  <span class="closebtn" onclick="closeSearch()" title="Close Overlay">×</span>
+  <div class="overlay-content">
+    <!-- <h3>Search <b> Somany Tiles / Bathware  </b></h3> -->
+
+    <form action="/search" method="get" id="search-form2">
+      <input type="text" placeholder="Search for " id="searchbar" name="q" oninput="inputQuery()">
+      <p id="error_searchbar_message" style="display: none; color:red; margin-top: 5px;"></p>
+
+      <span class="voicesearch"><a title="Voice Search" href="javascript:void(0)"><img src="https://d3joggurz1vobr.cloudfront.net/static/web/images/speaker-icon.png" alt="speaker icon" id="speakeicons" width="23" height="24" class="voicesearchimage" onclick="speakType()" /> </a></span>
+      <button type="submit" id="submitbuttonsearch"><i class="fa fa-search"></i></button>
+    </form>
+    <ul id="searchresulttwo">
+
+    </ul>
+  </div>
+</div>
+<!-- Modal -->
+<div class="modal fade-scale" id="Quickconnect" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h3>Quick Connect </h3>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <div class="quickconnect">
+          <div class="row">
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="sidebar-contact">
+  <!-- <div class="toggle"></div> -->
+  <img src="https://d3joggurz1vobr.cloudfront.net/static/web/images/quickconnect-img.jpg" alt="Somany Ceramics" class="toggle quickconnecticonimage" width="48" height="224" />
+  <div class="scroll">
+    <form method="post" enctype="multipart/form-data" id="quick_enquiry_form">
+      <input name='_csrf' value='3AqSoZi2-FTjn_lcobXdlxluIDo3P1JV6hnQ' id="csrf" style="display:none;">
+      <a title="Close" href="javascript:void(0)" class="toggleclose-icon" title="Somany Ceramics"><img src="https://d3joggurz1vobr.cloudfront.net/static/web/images/cross-icon.png" class="crossiconimage" alt="Somany Ceramics" width="20" height="20" /></a>
+      <div class="form-group">
+        <select class="form-control" name="type" id="quick_type_enquiry">
+          <option value="">Select Type*</option>
+          <option value="Tiles">Tiles</option>
+          <option value="Bathware">Bathware</option>
+        </select>
+        <span class="error" id="error_quick_type_enquiry" style="display: none; color:red; margin-top: 5px;">Type Is Required</span>
+      </div>
+      <div class="form-group">
+        <select class="form-control" name="enquiryType" id="quick_enquiryType_enquiry">
+          <option value="">Enquiry Type*</option>
+          <option value="Purchase Within India">Purchase Within India</option>
+          <option value="International Business-Export">International Business-Export</option>
+          <option value="Franchise Request">Franchise Request</option>
+          <option value="Catalog Request">Catalog Request</option>
+          <option value="Grievances">Grievances</option>
+        </select>
+        <span class="error" id="error_quick_enquiryType_enquiry" style="display: none; color:red; margin-top: 5px;">Enquiry Type Is Required</span>
+      </div>
+      <div class="form-group">
+        <input type="text" class="form-control" name="name" placeholder="Enter Your Name*" id="quick_name_enquiry" onkeypress="return nameValidater(event)" required>
+        <span class="error" id="error_quick_name_enquiry" style="display: none; color:red; margin-top: 5px;">Name Is Required</span>
+      </div>
+      <div class="form-group">
+        <input type="text" class="form-control" name="phone" id="quick_mobile_enquiry" placeholder="Mobile No*" pattern="^[\+]?[(]?[0-9]{3}[)]?[-\s\.]?[0-9]{3}[-\s\.]?[0-9]{4,6}$" onkeypress="return onlyNumberKey(event)" maxlength="10" required>
+        <span class="error" id="error_quick_mobile_enquiry" style="display: none; color:red; margin-top: 5px;">Phone Is Required</span>
+      </div>
+      <div class="form-group">
+        <input type="text" class="form-control" name="email" placeholder="Email*" id="quick_email_enquiry">
+        <span class="error" id="error_quick_email_enquiry" style="display: none; color:red; margin-top: 5px;">Email Is Required</span>
+      </div>
+      <div class="form-group">
+        <input type="text" class="form-control pincodesixdigit" id="quick_pincode_enquiry" name="pincode" maxlength="6" placeholder="Pincode*" required onkeypress="return onlyNumberKey(event)">
+        <span class="error" id="error_quick_pincode_enquiry" style="display: none; color:red; margin-top: 5px;">Pincode Is Required</span>
+
+      </div>
+      <div class="form-group">
+        <textarea class="form-control" placeholder="Please write your query here..." id="quick_query_enquiry" name="query"></textarea>
+        <span class="error" id="error_quick_query_enquiry" style="display: none; color:red; margin-top: 5px;">Message Is Required</span>
+      </div>
+      <div class="form-group" id="quick_otpdiv" style="display: none;">
+        <input type="text" class="form-control" name="otp" id="quick_otp_enquiry" placeholder="OTP*" maxlength="4" onkeypress="return onlyNumberKey(event)">
+        <input type="hidden" class="form-control" name="otptoken" id="otptoken">
+        <input type="hidden" name="utm_source" id="utm_source" value="">
+			<input type="hidden" name="utm_medium" id="utm_medium" value="">
+			<input type="hidden" name="utm_campaign" id="utm_campaign" value="">
+			<input type="hidden" name="utm_term" id="utm_term" value="">
+            <input type="hidden" name="page_url" value="http://www.somanyceramics.com/404">
+
+        <span class="error" id="error_quick_otp_enquiry" style="display: none; color:red; margin-top: 5px;">OTP Is Required</span>
+      </div>
+      <div class="form-group" style="display: none;">
+        <input class="form-control" name="verifyOtp" id="quick_verifyOtp_enquiry" placeholder="Please Verify your OTP here..." />
+        <span class="error" id="error_quick_verifyOtp_enquiry" style="display: none; color:red; margin-top: 5px;">Verify OTP Is Required</span>
+      </div>
+      <div id="quick_enquiry_patient_form_massage"></div>
+      <button type="submit" class="btn-style-one" id="quick_enquiry_submit" style="display: none;">Submit</button>
+      <button type="button" class="btn-style-one" id="buttonotp"><span>Send OTP</span></button>
+      <button style="display: none;" type="button" class="btn-style-one" id="verfiyotp"><span>Verify OTP</span></button>
+    </form>
+  </div>
+</div>
+<div class="header-main headerdiv fixedpro fixedproblog">
+  <div class="header-left">
+    <nav class="navbar navbar-default">
+      <div class="">
+        <div class="navbar-header">
+          <button type="button" class="togglenewone" id="togglenewone" aria-label="togglenewone" aria-labelledby="togglenewone" title="Menu Toggle">
+            <span></span>
+          </button>
+          <a title="Somany Ceramics" href="/" class="navbar-brand somany-logo"><img src="https://d3joggurz1vobr.cloudfront.net/static/web/images/somany-logo-new.jpg?dwd" width="275" height="95" alt="Somany Ceramics" /></a>
+        </div>
+        <div class="sidebarupdtedone" id='sidebarupdtedone'>
+          <ul class="nb-nav visible-xs">
+            <li>
+              <a title="Tiles" class="collapsed" data-toggle="collapse" href="#collapseStatistics" aria-expanded="false" aria-controls="collapseStatistics">
+                <span class="nb-link-text">Tiles</span>
+                <span class="fa fa-angle-up nb-btn-sub-collapse"></span>
+              </a>
+              <ul class="nb-sub-one collapse" id="collapseStatistics">
+                
+                
+                
+                <li>
+                  <a title="Rooms" class="collapsed" data-toggle="collapse" href="#collapseLevelTwo0" aria-expanded="false" aria-controls="collapseLevelTwo0">
+                    <span class="nb-link-text">Rooms</span>
+                    <span class="fa fa-angle-up nb-btn-sub-collapse"></span>
+                  </a>
+                  <ul class="nb-sub-two collapse" id="collapseLevelTwo0">
+
+                    
+                    <li class="cat"><a title="Living Room" href="/tile/room/living-room"> 
+                      <span class="nb-link-text">Living Room</span></a> </li>
+                    
+                    <li class="cat"><a title="Bedroom" href="/tile/room/bedroom"> 
+                      <span class="nb-link-text">Bedroom</span></a> </li>
+                    
+                    <li class="cat"><a title="Kitchen" href="/tile/room/kitchen"> 
+                      <span class="nb-link-text">Kitchen</span></a> </li>
+                    
+                    <li class="cat"><a title="Bathroom" href="/tile/room/bathroom"> 
+                      <span class="nb-link-text">Bathroom</span></a> </li>
+                    
+                    <li class="cat"><a title="Stairs" href="/tile/room/stairs"> 
+                      <span class="nb-link-text">Stairs</span></a> </li>
+                    
+                    <li class="cat"><a title="Outdoor &amp; Terrace Tiles​" href="/tile/room/outdoor"> 
+                      <span class="nb-link-text">Outdoor &amp; Terrace Tiles​</span></a> </li>
+                    
+							
+                    
+
+                      </ul>
+                    </li>
+                    
+                
+                <li>
+                  <a title="Category" class="collapsed" data-toggle="collapse" href="#collapseLevelTwo1" aria-expanded="false" aria-controls="collapseLevelTwo1">
+                    <span class="nb-link-text">Category</span>
+                    <span class="fa fa-angle-up nb-btn-sub-collapse"></span>
+                  </a>
+                  <ul class="nb-sub-two collapse" id="collapseLevelTwo1">
+
+                    
+                    <li class="cat"><a title="Somany Coverstone" href="/tile/category/coverstone"> 
+                      <span class="nb-link-text">Max (SLABS)</span></a> </li>
+                    
+                    <li class="cat"><a title="Ceramic" href="/tile/category/ceramic"> 
+                      <span class="nb-link-text">Ceramic</span></a> </li>
+                    
+                    <li class="cat"><a title="Duragres(GVT)" href="/tile/category/duragres"> 
+                      <span class="nb-link-text">Duragres</span></a> </li>
+                    
+                    <li class="cat"><a title="Vitro(PVT)" href="/tile/category/vitro"> 
+                      <span class="nb-link-text">Vitro</span></a> </li>
+                    
+                    <li class="cat"><a title="Durastone(HDVT)" href="/tile/category/durastone"> 
+                      <span class="nb-link-text">Durastone</span></a> </li>
+                    
+							
+                    
+
+                      </ul>
+                    </li>
+                    
+                
+                <li>
+                  <a title="Application Space" class="collapsed" data-toggle="collapse" href="#collapseLevelTwo2" aria-expanded="false" aria-controls="collapseLevelTwo2">
+                    <span class="nb-link-text">Application Space</span>
+                    <span class="fa fa-angle-up nb-btn-sub-collapse"></span>
+                  </a>
+                  <ul class="nb-sub-two collapse" id="collapseLevelTwo2">
+
+                    
+                    <li class="cat"><a title="Wall" href="/tile/application-space/wall"> 
+                      <span class="nb-link-text">Wall</span></a> </li>
+                    
+                    <li class="cat"><a title="Floor" href="/tile/application-space/floor"> 
+                      <span class="nb-link-text">Floor</span></a> </li>
+                    
+							
+                    
+
+                      </ul>
+                    </li>
+                    
+                
+                <li>
+                  <a title="Look" class="collapsed" data-toggle="collapse" href="#collapseLevelTwo3" aria-expanded="false" aria-controls="collapseLevelTwo3">
+                    <span class="nb-link-text">Look</span>
+                    <span class="fa fa-angle-up nb-btn-sub-collapse"></span>
+                  </a>
+                  <ul class="nb-sub-two collapse" id="collapseLevelTwo3">
+
+                    
+							
+                    
+
+                    <li>
+                      <a title="Colour" class="collapsed" data-toggle="collapse" href="#collapseLevelTwoatt0" aria-expanded="false" aria-controls="collapseLevelTwoatt0">
+                        <span class="nb-link-text">Colour</span>
+                        <span class="fa fa-angle-up nb-btn-sub-collapse"></span>
+                      </a>
+                      <ul class="nb-sub-two collapse" id="collapseLevelTwoatt0">
+                        
+                        <li class="cat"><a title="Blue" href="/tile/look?att=blue"> <span class="nb-link-text">Blue</span></a> </li>
+                        
+                        <li class="cat"><a title="Cream" href="/tile/look?att=cream"> <span class="nb-link-text">Cream</span></a> </li>
+                        
+                        <li class="cat"><a title="Pink" href="/tile/look?att=pink"> <span class="nb-link-text">Pink</span></a> </li>
+                        
+                        <li class="cat"><a title="Green" href="/tile/look?att=green"> <span class="nb-link-text">Green</span></a> </li>
+                        
+                        <li class="cat"><a title="Brown" href="/tile/look?att=brown"> <span class="nb-link-text">Brown</span></a> </li>
+                        
+                        <li class="cat"><a title="White" href="/tile/look?att=white"> <span class="nb-link-text">White</span></a> </li>
+                        
+                        <li class="cat"><a title="Grey" href="/tile/look?att=grey"> <span class="nb-link-text">Grey</span></a> </li>
+                        
+                        <li class="cat"><a title="Beige" href="/tile/look?att=beige"> <span class="nb-link-text">Beige</span></a> </li>
+                        
+                        <li class="cat"><a title="Red" href="/tile/look?att=red"> <span class="nb-link-text">Red</span></a> </li>
+                        
+                        <li class="cat"><a title="Multi Colour" href="/tile/look?att=multi-colour"> <span class="nb-link-text">Multi Colour</span></a> </li>
+                        
+                        <li class="cat"><a title="Black" href="/tile/look?att=black"> <span class="nb-link-text">Black</span></a> </li>
+                        
+													</ul>
+												</li>
+												
+
+                    <li>
+                      <a title="Finish/Design" class="collapsed" data-toggle="collapse" href="#collapseLevelTwoatt1" aria-expanded="false" aria-controls="collapseLevelTwoatt1">
+                        <span class="nb-link-text">Finish/Design</span>
+                        <span class="fa fa-angle-up nb-btn-sub-collapse"></span>
+                      </a>
+                      <ul class="nb-sub-two collapse" id="collapseLevelTwoatt1">
+                        
+                        <li class="cat"><a title="Polished Carving" href="/tile/look?att=polished-carving"> <span class="nb-link-text">Polished Carving</span></a> </li>
+                        
+                        <li class="cat"><a title="Stone" href="/tile/look?att=stone"> <span class="nb-link-text">Stone</span></a> </li>
+                        
+                        <li class="cat"><a title="Full Polished" href="/tile/look?att=full-polished"> <span class="nb-link-text">Full Polished</span></a> </li>
+                        
+                        <li class="cat"><a title="Wood" href="/tile/look?att=wood"> <span class="nb-link-text">Wood</span></a> </li>
+                        
+                        <li class="cat"><a title="Rustic" href="/tile/look?att=rustic"> <span class="nb-link-text">Rustic</span></a> </li>
+                        
+                        <li class="cat"><a title="Matt" href="/tile/look?att=matt"> <span class="nb-link-text">Matt</span></a> </li>
+                        
+                        <li class="cat"><a title="Satin matt" href="/tile/look?att=satinmatt"> <span class="nb-link-text">Satin matt</span></a> </li>
+                        
+                        <li class="cat"><a title="Metallic" href="/tile/look?att=metallic"> <span class="nb-link-text">Metallic</span></a> </li>
+                        
+                        <li class="cat"><a title="Carving" href="/tile/look?att=carving"> <span class="nb-link-text">Carving</span></a> </li>
+                        
+                        <li class="cat"><a title="Glossy" href="/tile/look?att=glossy"> <span class="nb-link-text">Glossy</span></a> </li>
+                        
+                        <li class="cat"><a title="High Glossy" href="/tile/look?att=highglossy"> <span class="nb-link-text">High Glossy</span></a> </li>
+                        
+                        <li class="cat"><a title="Dazzle" href="/tile/look?att=dazzle"> <span class="nb-link-text">Dazzle</span></a> </li>
+                        
+                        <li class="cat"><a title="Lapato" href="/tile/look?att=lapato"> <span class="nb-link-text">Lapato</span></a> </li>
+                        
+                        <li class="cat"><a title="Sugar Hone" href="/tile/look?att=sugarhone"> <span class="nb-link-text">Sugar Hone</span></a> </li>
+                        
+                        <li class="cat"><a title="Cement" href="/tile/look?att=cement"> <span class="nb-link-text">Cement</span></a> </li>
+                        
+                        <li class="cat"><a title="Granite" href="/tile/look?att=granite"> <span class="nb-link-text">Granite</span></a> </li>
+                        
+                        <li class="cat"><a title="Marble" href="/tile/look?att=marble"> <span class="nb-link-text">Marble</span></a> </li>
+                        
+                        <li class="cat"><a title="Mosaic" href="/tile/look?att=mosaic"> <span class="nb-link-text">Mosaic</span></a> </li>
+                        
+													</ul>
+												</li>
+												
+
+                    <li>
+                      <a title="Pattern" class="collapsed" data-toggle="collapse" href="#collapseLevelTwoatt2" aria-expanded="false" aria-controls="collapseLevelTwoatt2">
+                        <span class="nb-link-text">Pattern</span>
+                        <span class="fa fa-angle-up nb-btn-sub-collapse"></span>
+                      </a>
+                      <ul class="nb-sub-two collapse" id="collapseLevelTwoatt2">
+                        
+                        <li class="cat"><a title="Checker" href="/tile/look?att=checker"> <span class="nb-link-text">Checker</span></a> </li>
+                        
+                        <li class="cat"><a title="Circle" href="/tile/look?att=circle"> <span class="nb-link-text">Circle</span></a> </li>
+                        
+                        <li class="cat"><a title="Floral" href="/tile/look?att=floral"> <span class="nb-link-text">Floral</span></a> </li>
+                        
+                        <li class="cat"><a title="Horizontal Lines" href="/tile/look?att=horizontal-lines"> <span class="nb-link-text">Horizontal Lines</span></a> </li>
+                        
+                        <li class="cat"><a title="Vertical Lines" href="/tile/look?att=vertical-lines"> <span class="nb-link-text">Vertical Lines</span></a> </li>
+                        
+                        <li class="cat"><a title="Plain" href="/tile/look?att=plain"> <span class="nb-link-text">Plain</span></a> </li>
+                        
+                        <li class="cat"><a title="Random" href="/tile/look?att=random"> <span class="nb-link-text">Random</span></a> </li>
+                        
+													</ul>
+												</li>
+												
+
+                      </ul>
+                    </li>
+                    
+                
+                <li>
+                  <a title="Innovation" class="collapsed" data-toggle="collapse" href="#collapseLevelTwo4" aria-expanded="false" aria-controls="collapseLevelTwo4">
+                    <span class="nb-link-text">Innovation</span>
+                    <span class="fa fa-angle-up nb-btn-sub-collapse"></span>
+                  </a>
+                  <ul class="nb-sub-two collapse" id="collapseLevelTwo4">
+
+                    
+                    <li class="cat"><a title="Slip Shield Tiles: Advanced Safety for Wet Areas" href="/tile/innovation-tiles/slip-shield"> 
+                      <span class="nb-link-text">Slip Shield</span></a> </li>
+                    
+                    <li class="cat"><a title="TEMP SHIELD TILES: The Ultimate Cool Tiles for Heat Protection on Rooftops" href="/tile/innovation-tiles/temp-shield"> 
+                      <span class="nb-link-text">TEMP SHIELD</span></a> </li>
+                    
+                    <li class="cat"><a title="Hydrophobic" href="/tile/innovation-tiles/hydrophobic"> 
+                      <span class="nb-link-text">Hydrophobic</span></a> </li>
+                    
+                    <li class="cat"><a title="VC SHIELD Tiles: Unmatched Durability for Your Floors" href="/tile/innovation-tiles/vc-shield"> 
+                      <span class="nb-link-text">VC SHIELD</span></a> </li>
+                    
+							
+                    
+
+                      </ul>
+                    </li>
+                    
+						
+					</ul>
+					</li>
+					<li>
+					<a title="Bathware" class="collapsed" data-toggle="collapse" href="#collapseLevelOne" aria-expanded="false" aria-controls="collapseLevelOne">
+						<span class="nb-link-text">Bathware</span>
+						<span class="fa fa-angle-up nb-btn-sub-collapse"></span>
+					</a>
+					<ul class="nb-sub-one collapse" id="collapseLevelOne">
+						
+                    
+                    <li>
+                      
+                      <a title="Sanitaryware" class="collapsed" data-toggle="collapse" href="#collapseLevelfour0" aria-expanded="false" aria-controls="collapseLevelfour0">
+                        <span class="nb-link-text">Sanitaryware</span>
+                        <span class="fa fa-angle-up nb-btn-sub-collapse"></span>
+                      </a>
+                      
+						<ul class="nb-sub-two collapse" id="collapseLevelfour0">
+                      
+                      
+                    <li><a title="Toilets" href="/bathware/sanitaryware/toilets"><span class="nb-link-text">Toilets</span></a></li>
+                    
+                    <li><a title="Basins" href="/bathware/sanitaryware/basins"><span class="nb-link-text">Basins</span></a></li>
+                    
+                    <li><a title="Vanity Cabinets" href="/bathware/sanitaryware/vanity-cabinets"><span class="nb-link-text">Vanity Cabinets</span></a></li>
+                    
+                    <li><a title="Cisterns" href="/bathware/sanitaryware/cisterns"><span class="nb-link-text">Cisterns</span></a></li>
+                    
+                    <li><a title="Urinals" href="/bathware/sanitaryware/urinals"><span class="nb-link-text">Urinals</span></a></li>
+                    
+                    <li><a title="Sanitaryware Accessories" href="/bathware/sanitaryware/sanitaryware-accessories"><span class="nb-link-text">Sanitaryware Accessories</span></a></li>
+                    
+						</ul>
+						</li>
+						
+                    <li>
+                      
+                      <a title="Bath Fittings" class="collapsed" data-toggle="collapse" href="#collapseLevelfour1" aria-expanded="false" aria-controls="collapseLevelfour1">
+                        <span class="nb-link-text">Bath Fittings</span>
+                        <span class="fa fa-angle-up nb-btn-sub-collapse"></span>
+                      </a>
+                      
+						<ul class="nb-sub-two collapse" id="collapseLevelfour1">
+                      
+                      
+                    <li><a title="Faucets" href="/bathware/bath-fittings/faucets"><span class="nb-link-text">Faucets</span></a></li>
+                    
+                    <li><a title="Showers" href="/bathware/bath-fittings/showers"><span class="nb-link-text">Showers</span></a></li>
+                    
+                    <li><a title="Bathfitting Accessories" href="/bathware/bath-fittings/bathfitting-accessories"><span class="nb-link-text">Bathfitting Accessories</span></a></li>
+                    
+                    <li><a title="Allied Products" href="/bathware/bath-fittings/allied-products"><span class="nb-link-text">Allied Products</span></a></li>
+                    
+                    <li><a title="Health Faucet" href="/bathware/bath-fittings/health-faucet"><span class="nb-link-text">Health Faucet</span></a></li>
+                    
+						</ul>
+						</li>
+						
+                    <li>
+                      
+                      <a title="Collection" class="collapsed" data-toggle="collapse" href="#collapseLevelfour2" aria-expanded="false" aria-controls="collapseLevelfour2">
+                        <span class="nb-link-text">Collection</span>
+                        <span class="fa fa-angle-up nb-btn-sub-collapse"></span>
+                      </a>
+                      
+						<ul class="nb-sub-two collapse" id="collapseLevelfour2">
+                      
+                      
+                    <li><a title="French Collection" href="/bathware/collection/french-collection"><span class="nb-link-text">French Collection</span></a></li>
+                    
+                    <li><a title="Signature Collection" href="/bathware/collection/signature-collection"><span class="nb-link-text">Signature Collection</span></a></li>
+                    
+                    <li><a title="Somany Collection" href="/bathware/collection/somany-collection"><span class="nb-link-text">Somany Collection</span></a></li>
+                    
+						</ul>
+						</li>
+						
+                    <li>
+                      
+                      <a title="Smart Bathware" class="collapsed" data-toggle="collapse" href="#collapseLevelfour3" aria-expanded="false" aria-controls="collapseLevelfour3">
+                        <span class="nb-link-text">Smart Bathware</span>
+                        <span class="fa fa-angle-up nb-btn-sub-collapse"></span>
+                      </a>
+                      
+						<ul class="nb-sub-two collapse" id="collapseLevelfour3">
+                      
+                      
+                    <li><a title="Sensor Urinal" href="/bathware/smart-bathware/sensor-urinal"><span class="nb-link-text">Sensor Urinal</span></a></li>
+                    
+                    <li><a title="Sensor Faucets" href="/bathware/smart-bathware/sensor-faucets"><span class="nb-link-text">Sensor Faucets</span></a></li>
+                    
+                    <li><a title="Sensor Toilets" href="/bathware/smart-bathware/sensor-toilets"><span class="nb-link-text">Sensor Toilets</span></a></li>
+                    
+                    <li><a title="Dispenser &amp; Sanitizer" href="/bathware/smart-bathware/dispenser-and-sanitizer"><span class="nb-link-text">Dispenser &amp; Sanitizer</span></a></li>
+                    
+						</ul>
+						</li>
+						
+                    <li>
+                      
+                      <a title="Water Heater" href="/bathware/water-heater">
+                        <span class="nb-link-text">Water Heater</span>
+                        <!-- <span class="fa fa-angle-up nb-btn-sub-collapse"></span> -->
+                      </a>
+                      
+						<ul class="nb-sub-two collapse" id="collapseLevelfour4">
+                      
+                      
+						</ul>
+						</li>
+						
+
+                  </ul>
+                </li>
+
+                <li>
+                  <a title="Home & Building solutions" class="collapsed" data-toggle="collapse" href="#collapseEzyFix" aria-expanded="false" aria-controls="collapseEzyFix">
+                    <span class="nb-link-text">Home & Building solutions</span>
+                    <span class="fa fa-angle-up nb-btn-sub-collapse"></span>
+                  </a>
+                  <ul class="nb-sub-one collapse" id="collapseEzyFix">
+                    <li>
+                      <a title="EzyFix" class="collapsed" data-toggle="collapse" href="#collapseEzyFixSub" aria-expanded="false" aria-controls="collapseEzyFixSub">
+                        <span class="nb-link-text">EzyFix</span>
+                        <span class="fa fa-angle-up nb-btn-sub-collapse"></span>
+                      </a>
+                      <ul class="nb-sub-two collapse" id="collapseEzyFixSub">
+                        <li><a href="/ezy-fix#adhesive" title="Ezy fix"><span>Adhesives</span></a></li>
+                        <li><a href="/ezy-fix#grouts" title="Ezy fix"><span>Grouts</span></a></li>
+                        <li><a href="/ezy-fix#spacers" title="Ezy fix"><span>Spacers</span></a></li>
+                        <li><a href="/ezy-fix#admixture" title="Ezy fix"><span>Admixture</span></a></li>
+                        <li><a href="/ezy-fix#tile-cleaner" title="Ezy fix"><span>Tile Cleaner</span></a></li>
+                        <li><a href="/ezy-fix#waterproofing" title="Ezy fix"><span>Waterproofing</span></a></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+
+
+                <li>
+                  <a title="Catalogues" href="/catalogues">
+                    <span class="nb-link-text">Catalogues</span>
+                  </a>
+                </li>
+                <li>
+                  <a title="Visualiser" href="/visualiser">
+                    <span class="nb-link-text">Visualiser</span>
+                  </a>
+                </li>
+                <li>
+                  <a href="/get-inspired" title="Get Inspired">
+                    <span class="nb-link-text">Trending</span>
+                  </a>
+                </li>
+
+
+                <li><a href="/dealer-network" title="Where to buy"><span class=""> Where to buy </span></a></li>
+                <!-- <li><a href="#" data-toggle="modal" data-target="#Quickconnect">
+                  <img src="/static/web/images/quickconnect-iconnew.png" /><span class="hidden-xs"> Quick Connect </span></a></li> -->
+                <li><a href="/experience-centers" title="Experience Centre"><span class=""> Experience Centre </span></a></li>
+
+              </ul>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+
+          <ul class="nav navbar-nav hidden-xs">
+            <li class="dropdown menu-large">
+
+              <a href="/tiles" class="dropdown-toggle">Tile <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+              <!-- <a href="/tiles" title="Tile" class="dropdown-toggle" data-toggle="dropdown">Tile <i class="fa fa-angle-down" aria-hidden="true"></i></a> -->
+
+              <ul class="dropdown-menu megamenu row">
+                <li>
+                  <div class="navidiv">
+
+                    
+
+
+                    <ul id="menulisttiles">
+                      
+                      <li class="intro"><a href="javascript:void(0)" title="Rooms"><span>Rooms
+                            <i class="fa fa-angle-right" aria-hidden="true"></i></span></a>
+                        <ul>
+                          
+                          <li class="intro2" nik><a title="Living Room" href="/tile/room/living-room">
+                              <span>Living Room
+                                
+												
+                                
+                                <i class="fa fa-angle-right" aria-hidden="true"></i>
+                                </span></a>
+                            <ul>
+                              
+                              
+                              <li class="intro3"><a title="Living Room Wall" href="/tile/room/living-room/living-room-wall"><span> Living Room Wall</span></a>
+
+                              </li>
+                              
+                              <li class=""><a title="Living Room Floor" href="/tile/room/living-room/living-room-floor"><span> Living Room Floor</span></a>
+
+                              </li>
+                              
+
+                            </ul>
+                          </li>
+                          
+                          <li class="" nik><a title="Bedroom" href="/tile/room/bedroom">
+                              <span>Bedroom
+                                
+												
+                                
+                                <i class="fa fa-angle-right" aria-hidden="true"></i>
+                                </span></a>
+                            <ul>
+                              
+                              
+                              <li class="intro3"><a title="Bedroom Floor" href="/tile/room/bedroom/bedroom-floor"><span> Bedroom Floor</span></a>
+
+                              </li>
+                              
+                              <li class=""><a title="Bedroom Wall" href="/tile/room/bedroom/bedroom-wall"><span> Bedroom Wall</span></a>
+
+                              </li>
+                              
+
+                            </ul>
+                          </li>
+                          
+                          <li class="" nik><a title="Kitchen" href="/tile/room/kitchen">
+                              <span>Kitchen
+                                
+												
+                                
+                                <i class="fa fa-angle-right" aria-hidden="true"></i>
+                                </span></a>
+                            <ul>
+                              
+                              
+                              <li class="intro3"><a title="Kitchen Wall" href="/tile/room/kitchen/kitchen-wall"><span> Kitchen Wall</span></a>
+
+                              </li>
+                              
+                              <li class=""><a title="Kitchen Floor" href="/tile/room/kitchen/kitchen-floor"><span> Kitchen Floor</span></a>
+
+                              </li>
+                              
+                              <li class=""><a title="Kitchen Counter Top" href="/tile/room/kitchen/counter-top"><span> Kitchen Counter Top</span></a>
+
+                              </li>
+                              
+
+                            </ul>
+                          </li>
+                          
+                          <li class="" nik><a title="Bathroom" href="/tile/room/bathroom">
+                              <span>Bathroom
+                                
+												
+                                
+                                <i class="fa fa-angle-right" aria-hidden="true"></i>
+                                </span></a>
+                            <ul>
+                              
+                              
+                              <li class="intro3"><a title="Bathroom Wall" href="/tile/room/bathroom/bathroom-wall"><span> Bathroom Wall</span></a>
+
+                              </li>
+                              
+                              <li class=""><a title="Bathroom Floor" href="/tile/room/bathroom/bathroom-floor"><span> Bathroom Floor</span></a>
+
+                              </li>
+                              
+
+                            </ul>
+                          </li>
+                          
+                          <li class="" nik><a title="Stairs" href="/tile/room/stairs">
+                              <span>Stairs
+                                
+												
+                                </span></a>
+                            <ul>
+                              
+                              
+
+                            </ul>
+                          </li>
+                          
+                          <li class="" nik><a title="Outdoor &amp; Terrace Tiles​" href="/tile/room/outdoor">
+                              <span>Outdoor &amp; Terrace Tiles​
+                                
+												
+                                
+                                <i class="fa fa-angle-right" aria-hidden="true"></i>
+                                </span></a>
+                            <ul>
+                              
+                              
+                              <li class="intro3"><a title="Outdoor Wall" href="/tile/room/outdoor/outdoor-wall"><span> Outdoor Wall</span></a>
+
+                              </li>
+                              
+                              <li class=""><a title="Outdoor Floor" href="/tile/room/outdoor/outdoor-floor"><span> Outdoor Floor</span></a>
+
+                              </li>
+                              
+
+                            </ul>
+                          </li>
+                          
+                          
+                          
+                        </ul>
+                      </li>
+                      
+                      <li class=""><a href="javascript:void(0)" title="Category"><span>Category
+                            <i class="fa fa-angle-right" aria-hidden="true"></i></span></a>
+                        <ul>
+                          
+                          <li class="intro2" nik><a title="Somany Coverstone" href="/tile/category/coverstone">
+                              <span>
+                                Coverstone
+                                
+												
+                                
+                                <i class="fa fa-angle-right" aria-hidden="true"></i>
+                                </span></a>
+                            <ul>
+                              
+                              <li class="intro3"><a title="Contemporary Surfaces" href="/tile/category/coverstone"><span>Contemporary Surfaces</span></a>
+                              <li class=""><a title="Technical Porcelain" href="/tile/category/coverstone"><span>Technical Porcelain</span></a>
+                              <li class=""><a title="Luxury Polish" href="https://www.somanyceramics.com/category/coverstone/lux"><span>Luxury Polish</span></a>
+                              <li class=""><a title="Regalia Collection" href="/category/coverstone/regalia-collection"><span>Regalia Collection</span></a>
+                              <li class=""><a title="Colorato Collection" href="/lp/colorato"><span>Colorato Collection</span></a>
+
+                              </li>
+                              <li class=""><a title="Porto Collection" href="/category/porto"><span>Porto Collection</span></a></li>
+                              <li class=""><a title="Sedimento Collection" href="/category/sedimento"><span>Sedimento Collection</span></a></li>
+                              <li class=""><a title="Sedimento Collection" href="/category/elita"><span>Elita Collection</span></a></li>
+															<li class=""><a title="Sedimento Collection" href="/category/senso"><span>Senso Collection</span></a></li>
+                              
+
+                            </ul>
+                          </li>
+                          
+                          <li class="" nik><a title="Ceramic" href="/tile/category/ceramic">
+                              <span>Ceramic
+                                
+												
+                                </span></a>
+                            <ul>
+                              
+                              
+
+                            </ul>
+                          </li>
+                          
+                          <li class="" nik><a title="Duragres(GVT)" href="/tile/category/duragres">
+                              <span>Duragres
+                                
+												
+                                </span></a>
+                            <ul>
+                              
+                              
+
+                            </ul>
+                          </li>
+                          
+                          <li class="" nik><a title="Vitro(PVT)" href="/tile/category/vitro">
+                              <span>Vitro
+                                
+												
+                                </span></a>
+                            <ul>
+                              
+                              
+
+                            </ul>
+                          </li>
+                          
+                          <li class="" nik><a title="Durastone(HDVT)" href="/tile/category/durastone">
+                              <span>Durastone
+                                
+												
+                                </span></a>
+                            <ul>
+                              
+                              
+
+                            </ul>
+                          </li>
+                          
+                          
+                          
+                        </ul>
+                      </li>
+                      
+                      <li class=""><a href="javascript:void(0)" title="Application Space"><span>Application Space
+                            <i class="fa fa-angle-right" aria-hidden="true"></i></span></a>
+                        <ul>
+                          
+                          <li class="intro2" nik><a title="Wall" href="/tile/application-space/wall">
+                              <span>Wall
+                                
+												
+                                </span></a>
+                            <ul>
+                              
+                              
+
+                            </ul>
+                          </li>
+                          
+                          <li class="" nik><a title="Floor" href="/tile/application-space/floor">
+                              <span>Floor
+                                
+												
+                                </span></a>
+                            <ul>
+                              
+                              
+
+                            </ul>
+                          </li>
+                          
+                          
+                          
+                        </ul>
+                      </li>
+                      
+                      <li class=""><a href="javascript:void(0)" title="Look"><span>Look
+                            <i class="fa fa-angle-right" aria-hidden="true"></i></span></a>
+                        <ul>
+                          
+                          
+                          
+                          <li class="intro2"><a title="Colour" href="javascript:void(0)"><span>Colour <i class="fa fa-angle-right" aria-hidden="true"></i></span></a>
+                            <ul>
+
+                              
+                              <li class="intro3"><a title="Blue" href="/tile/look?att=blue"><span>Blue</span></a>
+													
+												</li>
+													
+                              <li class=""><a title="Cream" href="/tile/look?att=cream"><span>Cream</span></a>
+													
+												</li>
+													
+                              <li class=""><a title="Pink" href="/tile/look?att=pink"><span>Pink</span></a>
+													
+												</li>
+													
+                              <li class=""><a title="Green" href="/tile/look?att=green"><span>Green</span></a>
+													
+												</li>
+													
+                              <li class=""><a title="Brown" href="/tile/look?att=brown"><span>Brown</span></a>
+													
+												</li>
+													
+                              <li class=""><a title="White" href="/tile/look?att=white"><span>White</span></a>
+													
+												</li>
+													
+                              <li class=""><a title="Grey" href="/tile/look?att=grey"><span>Grey</span></a>
+													
+												</li>
+													
+                              <li class=""><a title="Beige" href="/tile/look?att=beige"><span>Beige</span></a>
+													
+												</li>
+													
+                              <li class=""><a title="Red" href="/tile/look?att=red"><span>Red</span></a>
+													
+												</li>
+													
+                              <li class=""><a title="Multi Colour" href="/tile/look?att=multi-colour"><span>Multi Colour</span></a>
+													
+												</li>
+													
+                              <li class=""><a title="Black" href="/tile/look?att=black"><span>Black</span></a>
+													
+												</li>
+													
+                            </ul>
+                          </li>
+                          
+                          <li class=""><a title="Finish/Design" href="javascript:void(0)"><span>Finish/Design <i class="fa fa-angle-right" aria-hidden="true"></i></span></a>
+                            <ul>
+
+                              
+                              <li class="intro3"><a title="Polished Carving" href="/tile/look?att=polished-carving"><span>Polished Carving</span></a>
+													
+												</li>
+													
+                              <li class=""><a title="Stone" href="/tile/look?att=stone"><span>Stone</span></a>
+													
+												</li>
+													
+                              <li class=""><a title="Full Polished" href="/tile/look?att=full-polished"><span>Full Polished</span></a>
+													
+												</li>
+													
+                              <li class=""><a title="Wood" href="/tile/look?att=wood"><span>Wood</span></a>
+													
+												</li>
+													
+                              <li class=""><a title="Rustic" href="/tile/look?att=rustic"><span>Rustic</span></a>
+													
+												</li>
+													
+                              <li class=""><a title="Matt" href="/tile/look?att=matt"><span>Matt</span></a>
+													
+												</li>
+													
+                              <li class=""><a title="Satin matt" href="/tile/look?att=satinmatt"><span>Satin matt</span></a>
+													
+												</li>
+													
+                              <li class=""><a title="Metallic" href="/tile/look?att=metallic"><span>Metallic</span></a>
+													
+												</li>
+													
+                              <li class=""><a title="Carving" href="/tile/look?att=carving"><span>Carving</span></a>
+													
+												</li>
+													
+                              <li class=""><a title="Glossy" href="/tile/look?att=glossy"><span>Glossy</span></a>
+													
+												</li>
+													
+                              <li class=""><a title="High Glossy" href="/tile/look?att=highglossy"><span>High Glossy</span></a>
+													
+												</li>
+													
+                              <li class=""><a title="Dazzle" href="/tile/look?att=dazzle"><span>Dazzle</span></a>
+													
+												</li>
+													
+                              <li class=""><a title="Lapato" href="/tile/look?att=lapato"><span>Lapato</span></a>
+													
+												</li>
+													
+                              <li class=""><a title="Sugar Hone" href="/tile/look?att=sugarhone"><span>Sugar Hone</span></a>
+													
+												</li>
+													
+                              <li class=""><a title="Cement" href="/tile/look?att=cement"><span>Cement</span></a>
+													
+												</li>
+													
+                              <li class=""><a title="Granite" href="/tile/look?att=granite"><span>Granite</span></a>
+													
+												</li>
+													
+                              <li class=""><a title="Marble" href="/tile/look?att=marble"><span>Marble</span></a>
+													
+												</li>
+													
+                              <li class=""><a title="Mosaic" href="/tile/look?att=mosaic"><span>Mosaic</span></a>
+													
+												</li>
+													
+                            </ul>
+                          </li>
+                          
+                          <li class=""><a title="Pattern" href="javascript:void(0)"><span>Pattern <i class="fa fa-angle-right" aria-hidden="true"></i></span></a>
+                            <ul>
+
+                              
+                              <li class="intro3"><a title="Checker" href="/tile/look?att=checker"><span>Checker</span></a>
+													
+												</li>
+													
+                              <li class=""><a title="Circle" href="/tile/look?att=circle"><span>Circle</span></a>
+													
+												</li>
+													
+                              <li class=""><a title="Floral" href="/tile/look?att=floral"><span>Floral</span></a>
+													
+												</li>
+													
+                              <li class=""><a title="Horizontal Lines" href="/tile/look?att=horizontal-lines"><span>Horizontal Lines</span></a>
+													
+												</li>
+													
+                              <li class=""><a title="Vertical Lines" href="/tile/look?att=vertical-lines"><span>Vertical Lines</span></a>
+													
+												</li>
+													
+                              <li class=""><a title="Plain" href="/tile/look?att=plain"><span>Plain</span></a>
+													
+												</li>
+													
+                              <li class=""><a title="Random" href="/tile/look?att=random"><span>Random</span></a>
+													
+												</li>
+													
+                            </ul>
+                          </li>
+                          
+                        </ul>
+                      </li>
+                      
+                      <li class=""><a href="javascript:void(0)" title="Innovation"><span>Innovation
+                            <i class="fa fa-angle-right" aria-hidden="true"></i></span></a>
+                        <ul>
+                          
+                          <li class="intro2" nik><a title="Slip Shield Tiles: Advanced Safety for Wet Areas" href="/tile/innovation-tiles/slip-shield">
+                              <span>Slip Shield
+                                
+												
+                                </span></a>
+                            <ul>
+                              
+                              
+
+                            </ul>
+                          </li>
+                          
+                          <li class="" nik><a title="TEMP SHIELD TILES: The Ultimate Cool Tiles for Heat Protection on Rooftops" href="/tile/innovation-tiles/temp-shield">
+                              <span>TEMP SHIELD
+                                
+												
+                                </span></a>
+                            <ul>
+                              
+                              
+
+                            </ul>
+                          </li>
+                          
+                          <li class="" nik><a title="Hydrophobic" href="/tile/innovation-tiles/hydrophobic">
+                              <span>Hydrophobic
+                                
+												
+                                </span></a>
+                            <ul>
+                              
+                              
+
+                            </ul>
+                          </li>
+                          
+                          <li class="" nik><a title="VC SHIELD Tiles: Unmatched Durability for Your Floors" href="/tile/innovation-tiles/vc-shield">
+                              <span>VC SHIELD
+                                
+												
+                                </span></a>
+                            <ul>
+                              
+                              
+
+                            </ul>
+                          </li>
+                          
+                          
+                          
+                        </ul>
+                      </li>
+                      
+
+                    </ul>
+                  </div>
+                </li>
+              </ul>
+            </li>
+            <li class="dropdown menu-large">
+              <a href="/bathware-collection" class="dropdown-toggle active">Bathware <i class="fa fa-angle-down" aria-hidden="true"></i>
+              </a>
+              <ul class="dropdown-menu megamenu row">
+                <li>
+                  <div class="navidiv">
+                    
+
+                    <ul id="menulistbathware">
+                      
+                      <li class="intro"><a title="Sanitaryware" href="/bathware/sanitaryware"><span>
+                            Sanitaryware <i class="fa fa-angle-right" aria-hidden="true"></i></span></a>
+                        <ul>
+                          
+                          
+                          <li class="intro2"><a title="Toilets" href="/bathware/sanitaryware/toilets"><span>
+                                Toilets
+                                
+                                </span></a>
+                            <ul>
+
+                              
+                            </ul>
+                          </li>
+                          
+                          <li class=""><a title="Basins" href="/bathware/sanitaryware/basins"><span>
+                                Basins
+                                
+                                </span></a>
+                            <ul>
+
+                              
+                            </ul>
+                          </li>
+                          
+                          <li class=""><a title="Vanity Cabinets" href="/bathware/sanitaryware/vanity-cabinets"><span>
+                                Vanity Cabinets
+                                
+                                </span></a>
+                            <ul>
+
+                              
+                            </ul>
+                          </li>
+                          
+                          <li class=""><a title="Cisterns" href="/bathware/sanitaryware/cisterns"><span>
+                                Cisterns
+                                
+                                </span></a>
+                            <ul>
+
+                              
+                            </ul>
+                          </li>
+                          
+                          <li class=""><a title="Urinals" href="/bathware/sanitaryware/urinals"><span>
+                                Urinals
+                                
+                                </span></a>
+                            <ul>
+
+                              
+                            </ul>
+                          </li>
+                          
+                          <li class=""><a title="Sanitaryware Accessories" href="/bathware/sanitaryware/sanitaryware-accessories"><span>
+                                Sanitaryware Accessories
+                                
+                                </span></a>
+                            <ul>
+
+                              
+                            </ul>
+                          </li>
+                          
+                        </ul>
+                      </li>
+                      
+                      <li class=""><a title="Bath Fittings" href="/bathware/bath-fittings"><span>
+                            Bath Fittings <i class="fa fa-angle-right" aria-hidden="true"></i></span></a>
+                        <ul>
+                          
+                          
+                          <li class="intro2"><a title="Faucets" href="/bathware/bath-fittings/faucets"><span>
+                                Faucets
+                                
+                                </span></a>
+                            <ul>
+
+                              
+                            </ul>
+                          </li>
+                          
+                          <li class=""><a title="Showers" href="/bathware/bath-fittings/showers"><span>
+                                Showers
+                                
+                                </span></a>
+                            <ul>
+
+                              
+                            </ul>
+                          </li>
+                          
+                          <li class=""><a title="Bathfitting Accessories" href="/bathware/bath-fittings/bathfitting-accessories"><span>
+                                Bathfitting Accessories
+                                
+                                </span></a>
+                            <ul>
+
+                              
+                            </ul>
+                          </li>
+                          
+                          <li class=""><a title="Allied Products" href="/bathware/bath-fittings/allied-products"><span>
+                                Allied Products
+                                
+                                </span></a>
+                            <ul>
+
+                              
+                            </ul>
+                          </li>
+                          
+                          <li class=""><a title="Health Faucet" href="/bathware/bath-fittings/health-faucet"><span>
+                                Health Faucet
+                                
+                                </span></a>
+                            <ul>
+
+                              
+                            </ul>
+                          </li>
+                          
+                        </ul>
+                      </li>
+                      
+                      <li class=""><a title="Collection" href="/bathware/collection"><span>
+                            Collection <i class="fa fa-angle-right" aria-hidden="true"></i></span></a>
+                        <ul>
+                          
+                          
+                          <li class="intro2"><a title="French Collection" href="/bathware/collection/french-collection"><span>
+                                French Collection
+                                
+                                 <i class="fa fa-angle-right" aria-hidden="true"></i></span></a>
+                            <ul>
+
+                              
+                              <li><a title="Sanitaryware" href="/bathware/collection/french-collection/french-collection-sanitaryware"><span>
+                                    Sanitaryware </span></a></li>
+                              
+                              <li><a title="Bath Fittings" href="/bathware/collection/french-collection/french-collection-bath-fittings"><span>
+                                    Bath Fittings </span></a></li>
+                              
+                              <li><a title="Vanity Cabinets" href="/bathware/collection/french-collection/french-collection-vanity-cabinets"><span>
+                                    Vanity Cabinets </span></a></li>
+                              
+                            </ul>
+                          </li>
+                          
+                          <li class=""><a title="Signature Collection" href="/bathware/collection/signature-collection"><span>
+                                Signature Collection
+                                
+                                 <i class="fa fa-angle-right" aria-hidden="true"></i></span></a>
+                            <ul>
+
+                              
+                              <li><a title="Sanitaryware" href="/bathware/collection/signature-collection/signature-collection-sanitaryware"><span>
+                                    Sanitaryware </span></a></li>
+                              
+                              <li><a title="Vanity Cabinets" href="/bathware/collection/signature-collection/signature-vanity-cabinets"><span>
+                                    Vanity Cabinets </span></a></li>
+                              
+                            </ul>
+                          </li>
+                          
+                          <li class=""><a title="Somany Collection" href="/bathware/collection/somany-collection"><span>
+                                Somany Collection
+                                
+                                </span></a>
+                            <ul>
+
+                              
+                            </ul>
+                          </li>
+                          
+                        </ul>
+                      </li>
+                      
+                      <li class=""><a title="Smart Bathware" href="/bathware/smart-bathware"><span>
+                            Smart Bathware <i class="fa fa-angle-right" aria-hidden="true"></i></span></a>
+                        <ul>
+                          
+                          
+                          <li class="intro2"><a title="Sensor Urinal" href="/bathware/smart-bathware/sensor-urinal"><span>
+                                Sensor Urinal
+                                
+                                </span></a>
+                            <ul>
+
+                              
+                            </ul>
+                          </li>
+                          
+                          <li class=""><a title="Sensor Faucets" href="/bathware/smart-bathware/sensor-faucets"><span>
+                                Sensor Faucets
+                                
+                                </span></a>
+                            <ul>
+
+                              
+                            </ul>
+                          </li>
+                          
+                          <li class=""><a title="Sensor Toilets" href="/bathware/smart-bathware/sensor-toilets"><span>
+                                Sensor Toilets
+                                
+                                </span></a>
+                            <ul>
+
+                              
+                            </ul>
+                          </li>
+                          
+                          <li class=""><a title="Dispenser &amp; Sanitizer" href="/bathware/smart-bathware/dispenser-and-sanitizer"><span>
+                                Dispenser &amp; Sanitizer
+                                
+                                </span></a>
+                            <ul>
+
+                              
+                            </ul>
+                          </li>
+                          
+                        </ul>
+                      </li>
+                      
+                      <li class=""><a title="Water Heater" href="/bathware/water-heater"><span>
+                            Water Heater <i class="fa fa-angle-right" aria-hidden="true"></i></span></a>
+                        <ul>
+                          
+                          
+                        </ul>
+                      </li>
+                      
+
+                    </ul>
+                  </div>
+                </li>
+              </ul>
+            </li>
+            <li class="dropdown menu-large">
+              <a href="/ezy-fix" class="dropdown-toggle active">Home & Building solutions <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+              <ul class="dropdown-menu megamenu row">
+                <div class="navidiv">
+                  <ul id="menulisttiles">
+                    <li class="intro">
+                      <a href="/ezy-fix"><span>
+                          EzyFix <i class="fa fa-angle-right" aria-hidden="true"></i></span></a>
+                      <ul>
+                        <li><a href="/ezy-fix#adhesive" title="Ezy fix"><span>Adhesives</span></a></li>
+                        <li><a href="/ezy-fix#grouts" title="Ezy fix"><span>Grouts</span></a></li>
+                        <li><a href="/ezy-fix#spacers" title="Ezy fix"><span>Spacers</span></a></li>
+                        <li><a href="/ezy-fix#admixture" title="Ezy fix"><span>Admixture</span></a></li>
+                        <li><a href="/ezy-fix#tile-cleaner" title="Ezy fix"><span>Tile Cleaner</span></a></li>
+                        <li><a href="/ezy-fix#waterproofing" title="Ezy fix"><span>Waterproofing</span></a></li>
+
+                      </ul>
+                    </li>
+                  </ul>
+                </div>
+              </ul>
+
+            </li>
+            <li>
+              <a href="/catalogues" title="Catalogues">Catalogues</a>
+            </li>
+            <li>
+              <a href="/visualiser" title="Catalogues">Visualiser</a>
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" title="Career" data-toggle="dropdown"> Career <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+              <ul class="dropdown-menu">
+                <!-- <li><a href="/category/cleaners">Cleaners</a></li> -->
+                <li><a href="/life-at-somany" title="Life at Somany">Life at Somany</a></li>
+                <li><a href="/career" title="Life at Somany">Work With Us</a></li>
+              </ul>
+            </li>
+            <!-- <li>
+					<a href="/get-inspired" title="Trending">Trending</a>
+				</li> -->
+
+
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </div>
+  <div class="header-right">
+    <ul>
+      <li><a title="Search" href="javascript:void(0)" onclick="openSearch()" id="openSearch"><img src="https://d3joggurz1vobr.cloudfront.net/static/web/images/header-search-icon.png" alt="search" width="23" height="24" id="searchicon" /> </a></li>
+      <!-- <li class="hidden-xs"><a href="#"><img src="/static/web/images/speaker-icon.png" /> </a></li> -->
+      <li class="hidden-xs"><a title="Where to buy" href="/dealer-network"><img src="https://d3joggurz1vobr.cloudfront.net/static/web/images/header-map-icon.png" alt="Map" width="23" height="24" /> <span class="visible-lg"> Where to buy </span></a></li>
+      <!-- <li><a href="#" data-toggle="modal" data-target="#Quickconnect"><img src="/static/web/images/quickconnect-iconnew.png" /><span class="hidden-xs"> Quick Connect </span></a></li> -->
+      <li class="hidden-xs"><a title="Experience Centre" href="/experience-centers"><img src="https://d3joggurz1vobr.cloudfront.net/static/web/images/exprience-center-icon.png" alt="exprience center" width="20" height="20" /><span class="visible-lg"> Experience Centre </span></a></li>
+
+      
+
+    </ul>
+  </div>
+</div>
+
+    <div class="tilesbyspace-divtext">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-offset-2 col-lg-8">
+            <!-- <h1 class="mainheadingnone"></h1> -->
+            <h2 class="mainpageheading_text">
+              404 PAGE NOT FOUND
+            </h2>
+            <p>The Page You Were Looking For Does Not Exist</p>
+              <!-- <h1>Tiles by Space</h1>
+          <p>Your spaces are a reflection of your tastes. Find design inspiration right here! Whether you are looking for Kitchen tiles, Bathroom tiles or tiles to spruce up your living room, your search ends here. Explore a wide variety of tile designs that suit your requirements.</p> -->
+          
+        </div>
+<div class="new_btn">
+  <a title="GO TO HOMEPAGE" href="/" class="btn btn-style-two">GO TO HOMEPAGE</a>
+</div>
+
+
+        </div>
+      </div>
+    
+    </div>
+ 
+    <footer class="footer-main">
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-lg-2 col-sm-4 col-xs-12">
+				<div class="footer-title">Products</div>
+				<ul>
+					<li><a title="Living Room" href="/tile/room/living-room">Living Room</a></li>
+					<!-- <li><a href="/bathware-collection">Bathware</a></li> -->
+					<li><a title="Floor Tiles" href="/tile/application-space/floor">Floor Tiles</a></li>
+					<li><a title="Wall Tiles" href="/tile/application-space/wall">Wall Tiles</a></li>
+					<li><a title="Sanitaryware" href="/bathware/sanitaryware">Sanitaryware</a></li>
+					<li><a title="Bath Fittings" href="/bathware/bath-fittings">Bath Fittings</a></li>
+					<li><a title="Trending" href="/get-inspired">Trending</a></li>
+					<li><a title="Catalogues" href="/catalogues">Catalogues</a></li>
+				</ul>
+			</div>
+			<div class="col-lg-2 col-sm-4 col-xs-12">
+				<div class="footer-title">About Us</div>
+				<ul>
+					<li><a title="Corporate Videos" href="/media-gallery#corporate-video">Corporate Videos</a></li>
+					<li><a title="Company Overview" href="/about-us">Company Overview</a></li>
+					<li><a title="Investor Relations" href="/investor-relation">Investor Relations</a></li>
+					<li><a title="Amalgamation" href="/investor-relation/amalgamation">Amalgamation</a></li>
+					<li><a title="International Business" href="/about-us#internationalbusiness">International
+							Business</a></li>
+							
+				</ul>
+				<div class="footer-title">Sitemap</div>
+				<ul>
+					<li><a title="Sitemap" href="/sitemap">Sitemap</a></li>
+				</ul>
+
+			</div>
+
+			<div class="col-lg-2 col-sm-4 col-xs-12">
+				<div class="footer-title">Activities</div>
+				<ul>
+					<li><a title="Blog" href="/blog?page=1">Blog</a></li>
+					<li><a title="Media Gallery" href="/media-gallery">Media Gallery</a></li>
+					<li><a title="Innovations" href="/innovations">Innovations</a></li>
+					<li><a title="Payment By QR Code" href="/somany-payment-by-qr-code">Payment By QR Code</a></li>
+				</ul>
+				<div class="footer-title">Get In Touch</div>
+				<ul>
+					<li><a title="lifeatsomany" href="/life-at-somany">Life At Somany</a></li>
+					<li><a title="Careers" href="/career">Work With Us</a></li>
+					<li><a title="Contact Us" href="/contact-us">Contact Us </a></li>
+					<li><a title="Dealer Network" href="/dealer-network">Dealer Network</a></li>
+				</ul>
+			</div>
+			<div class="col-lg-3 col-sm-6 col-xs-12">
+				<div class="footer-phone"> <img src="https://d3joggurz1vobr.cloudfront.net/static/web/images/footer-call-icon.png"
+						width="25" height="25" alt="Call Icon" />
+					<a title="1800-1030-004" href="tel:18001030004"> 1800-1030-004 </a>
+				</div>
+				<div class="timings">09:30 am to 6:30 pm <br> Monday to Saturday</div>
+				<!-- <div class="footer-mail"><img src="https://d3joggurz1vobr.cloudfront.net/static/web/images/footer-email-icon.png" width="25" height="25" alt="Email Icon" /> 
+					<a title="marketing@somanyceramics.com" href="mailto:marketing@somanyceramics.com"> marketing@somanyceramics.com </a></div> -->
+				<div class="footer-mail"><img src="https://d3joggurz1vobr.cloudfront.net/static/web/images/footer-email-icon.png"
+						width="25" height="25" alt="Email Icon" style="float: left;margin-right:15px;" /> 
+				Tile Enquiries: <br>
+					<a style="    display: block;" title="customer.care@somanyceramics.com"
+						href="mailto:customer.care@somanyceramics.com">customer.care@somanyceramics.com</a>
+				</div>
+
+				<div class="footer-mail international-mail">Bathware Enquiries: <br>
+					<a title="customer.support@somanyceramics.com"
+						href="mailto:customer.support@somanyceramics.com">customer.support@somanyceramics.com</a>
+				</div>
+				
+				<div class="footer-mail international-mail">International Business Enquiries: <br>
+					<a title="export@somanyceramics.com"
+						href="mailto:export@somanyceramics.com">export@somanyceramics.com </a>
+				</div>
+			</div>
+			<div class="col-lg-3 col-sm-6 col-xs-12">
+				<div class="footer-last">
+					<small>Stay updated with our latest collection. <br>Subscribe to our newsletter</small>
+					<form method="post" enctype="multipart/form-data">
+						<div class="enteryourloction-div">
+							<input type="text" name="subscriberEmail" class="form-control" placeholder="Your Email ID"
+								id="subscriberEmail-email">
+							<img src="https://d3joggurz1vobr.cloudfront.net/static/web/images/red-right-arrow.png" width="25"
+								height="25" alt="Right Arrow" id="subscriberEmail-button" />
+							<p id="subscriber-email-message" style="display: none; color:red; margin-top: 5px;"></p>
+						</div>
+					</form>
+					<div class="row">
+						<div class="col-lg-6 col-xs-12">
+							<p>Follow us on</p>
+							<div class="socialfooter">
+								<ul>
+									<li><a title="Facebook" href="https://www.facebook.com/SomanyCeramic"
+											target="_blank" aria-label="Facebook"><i class="fa fa-facebook"></i></a>
+									</li>
+									<li><a title="Twitter" href="https://twitter.com/SomanyCeramic" target="_blank"
+											aria-label="Twitter">
+											<svg aria-hidden="true" focusable="false" data-prefix="fab" width='18px' height='18px' data-icon="x-twitter" class="svg-inline--fa fa-x-twitter icons" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#b9b6b6" d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path></svg>
+										</a></li>
+									<li><a title="Instagram" href="https://www.instagram.com/somanyceramics/"
+											target="_blank" aria-label="Instagram"><i class="fa fa-instagram"></i></a>
+									</li>
+									<li><a title="LinkedIn" href="https://www.linkedin.com/company/somany-ceramics-ltd"
+											target="_blank" aria-label="Linkedin"><i class="fa fa-linkedin"></i></a>
+									</li>
+									<li><a title="Youtube"
+											href="https://www.youtube.com/channel/UC7q_1IxPhxxhQ9Lo8JBMHLg/videos"
+											target="_blank" aria-label="Youtube"><i class="fa fa-youtube-play"></i></a>
+									</li>
+								</ul>
+							</div>
+						</div>
+						<div class="col-lg-6 col-xs-12">
+							<p>Download App</p>
+							<div class="socialfooter">
+								<ul>
+									<li><a title="Play Store"
+											href="https://play.google.com/store/apps/details?id=com.somany.trumpet"
+											target="_blank"><img
+												src="https://d3joggurz1vobr.cloudfront.net/static/web/images/android-playstore.png"
+												class="downloadappimage" width="25" height="25" alt="android" /></a>
+									</li>
+									<li><a title="App Store"
+											href="https://itunes.apple.com/in/app/somany/id1148944529?mt=8"
+											target="_blank"><img
+												src="https://d3joggurz1vobr.cloudfront.net/static/web/images/ios-playstore.png"
+												width="25" height="25" alt="IOS" class="downloadappimage"
+												alt="Ios Playstore" /></a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-6">
+				<p>© Somany Ceramics. All Rights Reserved. | <a title="Disclaimer" href="/disclaimer"> Disclaimer </a>
+				</p>
+			</div>
+			<div class="col-lg-6 text-right">
+				<!-- <p>Site by:
+					<a href="https://www.weaddo.com/" target="_blank">
+						Weaddo </a>
+				</p> -->
+			</div>
+		</div>
+	</div>
+</footer>
+<div class="humbergermenu">
+	<div class="material-button-anim">
+		<ul class="list-inline" id="options">
+			<li class="option">
+				<a title="Dealer Network" href="/dealer-network">
+					<button class="material-button option1" type="button" aria-label="Map Marker"
+						aria-labelledby="mapmarker" title="Map Marker">
+
+						<span class="fa fa-map-marker" aria-hidden="true"></span>
+					</button>
+				</a>
+			</li>
+			<li class="option">
+				<a title="Phone" href="tel:18001030004">
+					<button class="material-button option2" type="button" aria-label="Phone" aria-labelledby="phone"
+						title="Phone">
+
+						<span class="fa fa-phone" aria-hidden="true"></span>
+					</button>
+
+				</a>
+			</li>
+			<!-- <li class="option">
+				<a href="/dealer-login">
+					<button class="material-button option3" type="button">
+						<span class="fal fa-user-alt" aria-hidden="true"></span>
+					</button>
+				</a>
+			</li> -->
+		</ul>
+		<button class="material-button material-button-toggle" type="button" aria-label="location-toggle"
+			aria-labelledby="location-toggle" title="Location Toggle">
+			<span class="fa fa-plus" aria-hidden="true"></span>
+		</button>
+	</div>
+</div>
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>    -->
+
+<script src="/static/web/js/jquery-1.12.0.min.js"></script>
+<script src="/static/web/js/lightbox.min.js" defer></script>
+<script src="/static/web/js/jquery-ui.min.js" ></script>
+<script>
+
+	function nameValidater(evt) {
+		var inputValue = (evt.which) ? evt.which : evt.keyCode
+		if (!(inputValue >= 65 && inputValue <= 93) && (inputValue <= 95 && inputValue <= 120) && (inputValue != 32 && inputValue != 0 && inputValue != 28))
+			return false;
+		return true;
+	}
+
+	function onlyNumberKey(evt) {
+		var ASCIICode = (evt.which) ? evt.which : evt.keyCode
+		if (ASCIICode > 31 && (ASCIICode < 48 || ASCIICode > 57))
+			return false;
+		return true;
+	}
+
+	$(function () {
+		$(".pincodesixdigit").autocomplete({
+			source: function (request, response) {
+				$.ajax({
+					type: "POST",
+					url: "/api/pincodeall",
+					dataType: "json",
+					data: { keyword: $(".pincodesixdigit").val() },
+					success: function (data) {
+						response($.map(data, function (item) {
+							var AC = new Object();
+							AC.title = item.value;
+							AC.label = item.value;
+							AC.value = item.value;
+							return AC
+						}));
+					}
+				});
+			},
+			minLength: 1,
+			autoFocus: true,
+			select: function (event, ui) {
+				if (!ui.item) {
+					$(".pincodesixdigit").val('');
+					$(this).focus();
+				} else {
+					$(".pincodesixdigit").val(ui.item.title);
+				}
+			}
+		});
+	});
+</script>
+<script src="/static/web/js/bootstrap.min.js"></script>
+<script src="/static/web/js/jquery.touchSwipe.min.js"></script>
+<script src="/static/web/js/owl.carousel.min.js"></script>
+<script src="/static/web/js/aos.js"></script>
+
+<script>
+	$(document).on('click', '.ytvideo[data-video]',function (e) {
+		e.preventDefault();
+		var $this = $(this);
+		var width = $this.attr("width");
+		var height = $this.attr("height");
+		var videolink = $this.attr("data-video");
+		var videoid = $this.attr("data-id");
+		$(this).children(".hideframevideo").html('<iframe src="https://www.youtube.com/embed/' + videolink + '?autoplay=1&rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>');
+		$(this).children(".videoimage").hide();
+	});
+	$(document).on('click', '#homevideoslider .owl-prev',function (e) {
+		e.preventDefault();
+		$(".videoimage").show()
+		$(".hideframevideo").html('')
+	});
+	$(document).on('click', '#homevideoslider .owl-next',function (e) {
+		e.preventDefault();
+		$(".videoimage").show()
+		$(".hideframevideo").html('')
+	});
+
+	function speakType() {
+		var output = document.getElementById("output");
+		var action = document.getElementById("action");
+		var SpeechRecognition = SpeechRecognition || webkitSpeechRecognition;
+		var recognition = new SpeechRecognition();
+		recognition.onstart = function () {
+			$("#speakeicons").attr("src", "/static/web/images/icon-mic.gif")
+		};
+		recognition.onspeechend = function () {
+			recognition.stop();
+			$("#speakeicons").attr("src", "/static/web/images/speaker-icon.png")
+		}
+		recognition.onresult = function (event) {
+			var transcript = event.results[0][0].transcript;
+			var confidence = event.results[0][0].confidence;
+			$("#searchbar").val(transcript)
+			setTimeout(function () {
+				var replacetranscript = transcript.replace(/\s/g, "+")
+				$.getJSON("/api/keyword", function (data) {
+					autoComplete = [];
+					for (var i = 0, len = data.length; i < len; i++) {
+						autoComplete.push(data[i].title);
+					}
+					$(".searchbar").autocomplete({
+						source: autoComplete,
+						change: function (event, ui) {
+							if (!ui.item) {
+								$(".searchbar").val("");
+							}
+						}
+					});
+				});
+				window.location.href = '/search?q=' + replacetranscript
+			}, 2000);
+		};
+		recognition.start();
+	}
+</script>
+
+<script>
+	$("li.sub-menu").click(function () {
+		$("li.sub-menu").removeClass("active");
+		$("li.sub-menu").find(".right").removeClass("fa-caret-up");
+		$("li.sub-menu").find(".right").addClass("fa-caret-down");
+		$(this).addClass("active");
+		$(this).find(".right").removeClass("fa-caret-down");
+		$(this).find(".right").addClass("fa-caret-up");
+	})
+	if ($(window).width() > 460) {
+
+		$("#menulisttiles li > a").hover(function () {
+			$("#menulisttiles li").removeClass("intro");
+			$(this).parent("li").addClass("intro");
+			$(this).parent("li").children("ul").children("li").first().addClass("intro2");
+			$(this).parent("li").children("ul").children("li").children("ul").children("li").first().addClass("intro3");
+		});
+		$("#menulisttiles  li > ul > li > a").hover(function () {
+			$("#menulisttiles li").removeClass("intro");
+			$(this).parent("li").parent("ul").parent("li").addClass("intro");
+			$("#menulisttiles li ul li").removeClass("intro2");
+			$(this).parent("li").addClass("intro2");
+			$("#menulisttiles  li ul li ul li ").removeClass("intro3");
+			$(this).parent("li").children("ul").children("li").first().addClass("intro3");
+		});
+		$("#menulisttiles  li > ul > li >  ul > li > a").hover(function () {
+			$("#menulisttiles li").removeClass("intro");
+			$(this).parent("li").parent("ul").parent("li").parent("ul").parent("li").addClass("intro");
+			$("#menulisttiles  li ul li").removeClass("intro2");
+			$(this).parent("li").parent("ul").parent("li").addClass("intro2");
+			$("#menulisttiles  li ul li ul li ").removeClass("intro3");
+			$(this).parent("li").addClass("intro3");
+		});
+		$("#menulisttiles  li > ul > li >  ul > li >  ul > li > a").hover(function () {
+			$("#menulisttiles li").removeClass("intro");
+			$(this).parent("li").parent("ul").parent("li").parent("ul").parent("li").parent("ul").parent("li").addClass("intro");
+			$("#menulisttiles li ul li ").removeClass("intro2");
+			$(this).parent("li").parent("ul").parent("li").parent("ul").parent("li").addClass("intro2");
+			$("#menulisttiles li ul li ul li").removeClass("intro3");
+			$(this).parent("li").parent("ul").parent("li").addClass("intro3");
+		});
+		$("#menulistbathware li > a").hover(function () {
+			$("#menulistbathware li").removeClass("intro");
+			$(this).parent("li").addClass("intro");
+			$(this).parent("li").children("ul").children("li").first().addClass("intro2");
+			$(this).parent("li").children("ul").children("li").children("ul").children("li").first().addClass("intro3");
+		});
+		$("#menulistbathware  li > ul > li > a").hover(function () {
+			$("#menulistbathware li").removeClass("intro");
+			$(this).parent("li").parent("ul").parent("li").addClass("intro");
+			$("#menulistbathware li ul li").removeClass("intro2");
+			$(this).parent("li").addClass("intro2");
+			$("#menulistbathware  li ul li ul li ").removeClass("intro3");
+			$(this).parent("li").children("ul").children("li").first().addClass("intro3");
+		});
+		$("#menulistbathware  li > ul > li >  ul > li > a").hover(function () {
+			$("#menulistbathware li").removeClass("intro");
+			$(this).parent("li").parent("ul").parent("li").parent("ul").parent("li").addClass("intro");
+			$("#menulistbathware  li ul li").removeClass("intro2");
+			$(this).parent("li").parent("ul").parent("li").addClass("intro2");
+			$("#menulistbathware  li ul li ul li ").removeClass("intro3");
+			$(this).parent("li").addClass("intro3");
+		});
+		$("#menulistbathware  li > ul > li >  ul > li >  ul > li > a").hover(function () {
+			$("#menulistbathware li").removeClass("intro");
+			$(this).parent("li").parent("ul").parent("li").parent("ul").parent("li").parent("ul").parent("li").addClass("intro");
+			$("#menulistbathware li ul li ").removeClass("intro2");
+			$(this).parent("li").parent("ul").parent("li").parent("ul").parent("li").addClass("intro2");
+			$("#menulistbathware li ul li ul li").removeClass("intro3");
+			$(this).parent("li").parent("ul").parent("li").addClass("intro3");
+		});
+	}
+</script>
+
+<script src="/static/js/utils.js"></script>
+
+<script>
+	$("#quick_enquiryType_enquiry").on("change", function () {
+		if ($("#quick_enquiryType_enquiry").val() == "International Business-Export") {
+			$("#buttonotp").css("display", "none")
+			$("#quick_enquiry_submit").css("display", "block")
+		}else{
+			$("#buttonotp").css("display", "block")
+			$("#quick_enquiry_submit").css("display", "none")
+		}
+	})
+
+
+	$(document).on('click', '#quick_enquiry_submit', async function (e) {
+		e.preventDefault();
+		document.getElementById("quick_enquiry_patient_form_massage").style.color = "red";
+		$('#preloader').show();
+		var error_count = 0;
+		var letters = /^[0-9a-zA-Z]+$/;
+		var mailformat = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+		var type_enquiry = $("#quick_type_enquiry").val();
+		if (type_enquiry.length == 0) {
+			document.getElementById("error_quick_type_enquiry").style.display = "block";
+			$("#error_quick_type_enquiry").text("Select Type");
+			return false;
+			error_count = error_count + 1;
+		}
+		else {
+			document.getElementById("error_quick_type_enquiry").style.display = "none";
+		}
+		var enquiryType_enquiry = $("#quick_enquiryType_enquiry").val();
+		if (enquiryType_enquiry.length == 0) {
+			document.getElementById("error_quick_enquiryType_enquiry").style.display = "block";
+			$("#error_quick_enquiryType_enquiry").text("Select Type");
+			return false;
+			error_count = error_count + 1;
+		}
+		else {
+			document.getElementById("error_quick_enquiryType_enquiry").style.display = "none";
+		}
+		var name_enquiry = $("#quick_name_enquiry").val();
+		if (name_enquiry.length == 0) {
+			document.getElementById("error_quick_name_enquiry").style.display = "block";
+			$("#error_quick_name_enquiry").text("Name Is Required");
+			return false;
+			error_count = error_count + 1;
+
+		}
+		else {
+			document.getElementById("error_quick_name_enquiry").style.display = "none";
+		}
+		var mobile_enquiry = $("#quick_mobile_enquiry").val();
+		if (mobile_enquiry.length == 0) {
+			$("#error_quick_mobile_enquiry").empty();
+			$("#error_quick_mobile_enquiry").text("Mobile Number Is Required ");
+			document.getElementById("error_quick_mobile_enquiry").style.display = "block";
+			return false;
+			error_count = error_count + 1;
+		}
+		else if (mobile_enquiry.length > 0 && mobile_enquiry.length > 15) {
+			$("#error_quick_mobile_enquiry").empty();
+			$("#error_quick_mobile_enquiry").text("Invalid Mobile Number");
+			document.getElementById("error_quick_mobile_enquiry").style.display = "block";
+			return false;
+			error_count = error_count + 1;
+		}
+		else if (mobile_enquiry.length >= 10 && mobile_enquiry.length <= 15) {
+
+			document.getElementById("error_quick_mobile_enquiry").style.display = "none";
+		}
+		else {
+			$("#error_quick_mobile_enquiry").empty();
+			$("#error_quick_mobile_enquiry").text("Invalid Mobile Number");
+			document.getElementById("error_quick_mobile_enquiry").style.display = "block";
+			return false;
+			error_count = error_count + 1;
+		}
+		var email_enquiry = $("#quick_email_enquiry").val();
+		if (email_enquiry.length > 0) {
+			if (email_enquiry.match(mailformat)) {
+				document.getElementById("error_quick_email_enquiry").style.display = "none";
+			}
+			else if (email_enquiry === 'yopmail.com') {
+				$("#error_quick_email_enquiry").empty();
+				$("#error_quick_email_enquiry").text("Invalid Email ID");
+				document.getElementById("error_quick_email_enquiry").style.display = "block";
+				return false;
+				error_count = error_count + 1;
+			}
+			else {
+				$("#error_quick_email_enquiry").empty();
+				$("#error_quick_email_enquiry").text("Invalid Email ID");
+				document.getElementById("error_quick_email_enquiry").style.display = "block";
+				return false;
+				error_count = error_count + 1;
+			}
+		}
+		else {
+			$("#error_quick_email_enquiry").empty();
+			$("#error_quick_email_enquiry").text("Email ID Is Required");
+			document.getElementById("error_quick_email_enquiry").style.display = "block";
+			return false;
+			error_count = error_count + 1;
+		}
+		var pincode_enquiry = $("#quick_pincode_enquiry").val();
+		let resp = await asyncGet(`/api/pincodeall`, "",)
+		let pincodeget = resp.filter(resp => resp.value?.includes(pincode_enquiry));
+		var disclength = resp.data;
+		if (pincode_enquiry.length == 0) {
+			document.getElementById("error_quick_pincode_enquiry").style.display = "block";
+			$("#error_quick_pincode_enquiry").text("Pincode Is Required");
+			return false;
+			error_count = error_count + 1;
+		} else if (pincode_enquiry.length < 6) {
+			document.getElementById("error_quick_pincode_enquiry").style.display = "block";
+			$("#error_quick_pincode_enquiry").text("Invalid Pincode");
+			return false;
+			error_count = error_count + 1;
+		} else if (pincodeget.length <= 0) {
+			document.getElementById("error_quick_pincode_enquiry").style.display = "block";
+			$("#error_quick_pincode_enquiry").text("Invalid Pincode");
+			return false;
+			error_count = error_count + 1;
+		} else {
+			document.getElementById("error_quick_pincode_enquiry").style.display = "none";
+		}
+		if ($("#quick_enquiryType_enquiry").val() !== "International Business-Export") {
+			var otp_enquiry = $("#quick_otp_enquiry").val();
+			if (otp_enquiry.length == 0) {
+				document.getElementById("error_quick_otp_enquiry").style.display = "block";
+				$("#error_quick_otp_enquiry").text("OTP Is Required");
+				return false;
+				error_count = error_count + 1;
+			}
+			else {
+				document.getElementById("error_quick_otp_enquiry").style.display = "none";
+			}
+			var otptoken = $("#otptoken").val();
+			if (otptoken.length == 0) {
+				document.getElementById("error_quick_otp_enquiry").style.display = "block";
+				$("#error_quick_otp_enquiry").text("OTP Is Required");
+				return false;
+				error_count = error_count + 1;
+			}
+			else {
+				document.getElementById("error_quick_otp_enquiry").style.display = "none";
+			}
+		}else{
+			document.getElementById("error_quick_otp_enquiry").style.display = "none";
+		}
+		if (error_count == 0) {
+			$("#quick_enquiry_submit").addClass("disabled")
+			document.getElementById("quick_enquiry_submit").disabled = true;
+
+			setTimeout(async () => {
+				var formData = new FormData(document.getElementById("quick_enquiry_form"));
+				let resp = await asyncPost('/api/quickConnectform/add', '', formData);
+				// console.log("resp",resp);
+				if (resp && resp.success) {
+					document.getElementById("quick_enquiry_submit").disabled = false;
+					let mail = $('#quick_email_enquiry').val()
+					window.location.href = '/thank-you?mail=' + mail
+				} else {
+					document.getElementById("quick_enquiry_patient_form_massage").style.display = "block";
+					document.getElementById("quick_enquiry_patient_form_massage").style.color = "red";
+					$("#quick_enquiry_patient_form_massage").text(resp.message);
+					document.getElementById("quick_enquiry_submit").disabled = false;
+				}
+			}, 1000);
+
+		}
+	});
+
+	$(document).on('click', '#buttonotp', async function (e) {
+		e.preventDefault();
+		// $("#quick_enquiry_submit").show()
+		document.getElementById("quick_enquiry_patient_form_massage").style.color = "red";
+		$('#preloader').show();
+		var error_count = 0;
+		var letters = /^[0-9a-zA-Z]+$/;
+		var mobileformat = /^[6-9]\d{9}$/;
+		var mailformat = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+		var type_enquiry = $("#quick_type_enquiry").val();
+		if (type_enquiry.length == 0) {
+			document.getElementById("error_quick_type_enquiry").style.display = "block";
+			$("#error_quick_type_enquiry").text("Select Type");
+			return false;
+			error_count = error_count + 1;
+		}
+		else {
+			document.getElementById("error_quick_type_enquiry").style.display = "none";
+		}
+		var enquiryType_enquiry = $("#quick_enquiryType_enquiry").val();
+		if (enquiryType_enquiry.length == 0) {
+			document.getElementById("error_quick_enquiryType_enquiry").style.display = "block";
+			$("#error_quick_enquiryType_enquiry").text("Select Type");
+			return false;
+			error_count = error_count + 1;
+		}
+		else {
+			document.getElementById("error_quick_enquiryType_enquiry").style.display = "none";
+		}
+		var name_enquiry = $("#quick_name_enquiry").val();
+		if (name_enquiry.length == 0) {
+			document.getElementById("error_quick_name_enquiry").style.display = "block";
+			$("#error_quick_name_enquiry").text("Name Is Required");
+			return false;
+			error_count = error_count + 1;
+		}
+		else {
+			document.getElementById("error_quick_name_enquiry").style.display = "none";
+		}
+		var mobile_enquiry = $("#quick_mobile_enquiry").val();
+		if (mobile_enquiry.length == 0) {
+			$("#error_quick_mobile_enquiry").empty();
+			$("#error_quick_mobile_enquiry").text("Mobile Number Is Required ");
+			document.getElementById("error_quick_mobile_enquiry").style.display = "block";
+			return false;
+			error_count = error_count + 1;
+		} else if (mobile_enquiry.length > 0) {
+			if (mobile_enquiry.match(mobileformat)) {
+				document.getElementById("error_quick_mobile_enquiry").style.display = "none";
+				document.getElementById('quick_mobile_enquiry').readOnly = true;
+			} else {
+				$("#error_quick_mobile_enquiry").empty();
+				$("#error_quick_mobile_enquiry").text("Invalid mobile number");
+				document.getElementById("error_quick_mobile_enquiry").style.display = "block";
+				return false;
+				error_count = error_count + 1;
+			}
+		}
+		else if (mobile_enquiry.length > 0 && mobile_enquiry.length > 15) {
+			$("#error_quick_mobile_enquiry").empty();
+			$("#error_quick_mobile_enquiry").text("Invalid Mobile Number");
+			document.getElementById("error_quick_mobile_enquiry").style.display = "block";
+			return false;
+			error_count = error_count + 1;
+		}
+		else if (mobile_enquiry.length >= 10 && mobile_enquiry.length <= 15) {
+			document.getElementById("error_quick_mobile_enquiry").style.display = "none";
+			document.getElementById('quick_mobile_enquiry').readOnly = true;
+		} else {
+			$("#error_quick_mobile_enquiry").empty();
+			$("#error_quick_mobile_enquiry").text("Invalid Mobile Number");
+			document.getElementById("error_quick_mobile_enquiry").style.display = "block";
+			return false;
+			error_count = error_count + 1;
+		}
+		var email_enquiry = $("#quick_email_enquiry").val();
+		if (email_enquiry.length > 0) {
+			if (email_enquiry.match(mailformat)) {
+				document.getElementById("error_quick_email_enquiry").style.display = "none";
+			}
+			else {
+				$("#error_quick_email_enquiry").empty();
+				$("#error_quick_email_enquiry").text("Invalid Email ID");
+				document.getElementById("error_quick_email_enquiry").style.display = "block";
+				return false;
+				error_count = error_count + 1;
+			}
+		} else {
+			$("#error_quick_email_enquiry").empty();
+			$("#error_quick_email_enquiry").text("Email ID Is Required");
+			document.getElementById("error_quick_email_enquiry").style.display = "block";
+			return false;
+			error_count = error_count + 1;
+		}
+		var pincode_enquiry = $("#quick_pincode_enquiry").val();
+		let resp = await asyncGet(`/api/pincodeall`, "",)
+		let pincodeget = resp.filter(resp => resp.value?.includes(pincode_enquiry));
+		if (pincode_enquiry.length == 0) {
+			document.getElementById("error_quick_pincode_enquiry").style.display = "block";
+			$("#error_quick_pincode_enquiry").text("Pincode Is Required");
+			return false;
+			error_count = error_count + 1;
+		} else if (pincode_enquiry.length < 6) {
+			document.getElementById("error_quick_pincode_enquiry").style.display = "block";
+			$("#error_quick_pincode_enquiry").text("Invalid Pincode");
+			return false;
+			error_count = error_count + 1;
+		} else if (pincodeget.length <= 0) {
+			document.getElementById("error_quick_pincode_enquiry").style.display = "block";
+			$("#error_quick_pincode_enquiry").text("Invalid Pincode");
+			return false;
+			error_count = error_count + 1;
+		} else {
+			document.getElementById("error_quick_pincode_enquiry").style.display = "none";
+		}
+		if (error_count == 0) {
+			// $("#quick_enquiry_submit").addClass("disabled")
+			// document.getElementById("quick_enquiry_submit").disabled = true;
+			document.getElementById("buttonotp").disabled = true;
+			var formData = new FormData(document.getElementById("quick_enquiry_form"));
+			const resp = await asyncPost('/api/quickConnectformOTP/add', '', formData);
+			if (resp && resp.success) {
+				document.getElementById("quick_enquiry_patient_form_massage").style.display = "block";
+				document.getElementById("quick_enquiry_patient_form_massage").style.color = "green";
+				$("#quick_otpdiv").show()
+				$("#buttonotp").hide()
+				$("#otptoken").val(resp.message.otptoken)
+				$("#quick_enquiry_submit").show();
+			} else {
+			document.getElementById("quick_enquiry_submit").disabled = false;
+				if (resp.message) {
+					alert(resp.message);
+				} else {
+					alert(resp.error);
+				}
+			}
+		}
+	});
+	$('#pincode_enquiry').on('keyup', async function (e) {
+		let input = $(this).val();
+		if (input.length > 2) {
+			const resp = await asyncGet('/api/pincode/' + input, '');
+		}
+	})
+	function onlyNumberKey(evt) {
+		var ASCIICode = (evt.which) ? evt.which : evt.keyCode
+		if (ASCIICode > 31 && (ASCIICode < 48 || ASCIICode > 57))
+			return false;
+		return true;
+	}
+</script>
+
+<style>
+	.ui-autocomplete {
+		background: #eee;
+		width: 300px !important;
+		padding: 12px 20px;
+		overflow-y: scroll;
+		max-height: 120px;
+		z-index: 99999;
+	}
+</style>
+
+<script>
+	$(document).ready(function () {
+		$('.material-button-toggle').on("click", function () {
+			$(this).toggleClass('open');
+			$('.option').toggleClass('scale-on');
+		});
+	});
+</script>
+
+<script>
+	var btn = document.querySelector('.togglenewone');
+	var btnst = true;
+	btn.onclick = function () {
+		if (btnst == true) {
+			document.querySelector('.togglenewone span').classList.add('togglenewone');
+			document.getElementById('sidebarupdtedone').classList.add('sidebarshow');
+			btnst = false;
+		} else if (btnst == false) {
+			document.querySelector('.togglenewone span').classList.remove('togglenewone');
+			document.getElementById('sidebarupdtedone').classList.remove('sidebarshow');
+			btnst = true;
+		}
+	}
+</script>
+
+<script>
+	$(document).on('click', '#subscriberEmail-button', async function () {
+		var mailformat = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+		let subscriberEmail = $('#subscriberEmail-email').val();
+
+		// console.log("subscriberEmail", subscriberEmail);
+		document.getElementById("subscriber-email-message").style.color = "red";
+		if (!subscriberEmail) {
+			document.getElementById("subscriber-email-message").style.display = "block";
+			$("#subscriber-email-message").text("Please enter your email.");
+		} else if (subscriberEmail === 'yopmail.com') {
+			document.getElementById("subscriber-email-message").style.display = "block";
+			$("#subscriber-email-message").text("Invalid email.");
+		} else if (!subscriberEmail.match(mailformat)) {
+			document.getElementById("subscriber-email-message").style.display = "block";
+			$("#subscriber-email-message").text("Invalid email.");
+		} else {
+			var formData = new FormData();
+			formData.append('email', subscriberEmail);
+			let resp = await asyncPost('/api/subscriberEmail/add', '', formData);
+			if (resp && resp.success) {
+				$("#subscriberEmail-email").val("");
+				document.getElementById("subscriber-email-message").style.display = "block";
+				document.getElementById("subscriber-email-message").style.color = "green";
+				$("#subscriber-email-message").text("You have sucessfully subscribed to our newletter");
+			} else if (resp.message) {
+				$("#subscriberEmail-email").val("");
+				document.getElementById("subscriber-email-message").style.display = "block";
+				$("#subscriber-email-message").text(resp.message);
+			} else {
+				$("#subscriberEmail-email").val("");
+				document.getElementById("subscriber-email-message").style.display = "block";
+				$("#subscriber-email-message").text(resp.message);
+			}
+		}
+	});
+	$('#buttonotp').on('click', function () {
+	})
+</script>
+
+<script>
+	$(document).on("click", function () {
+		$("#speakeiconshome").attr("src", "/static/web/images/icon-mic.gif")
+
+	})
+
+	$(document).on("click", "#submitbuttonsearch", function () {
+		if (!$("#searchbar").val()) {
+			document.getElementById("submitbuttonsearch").disabled = true;
+			$("#error_searchbar_message").css("display", "block");
+			$("#error_searchbar_message").text("This Field Is Required*");
+			document.getElementById("error_searchbar_message").style.color = "red";
+
+		}
+	})
+
+	function inputQuery() {
+		if ($("#searchbar").val().length > 0) {
+			document.getElementById("submitbuttonsearch").disabled = false;
+
+			$("#error_searchbar_message").css("display", "none");
+		}
+	}
+</script>
+
+<script src="/static/web/js/custom.js" async></script>
+<script>
+	$(document).on("click","#location-toggle",function () {
+		// alert("dfggfhgh")
+		let html=``
+
+		
+		html+=`
+		<li class="option">
+				<a title="Dealer Network" href="/dealer-network">
+					<button class="material-button option1" type="button" aria-label="Map Marker" aria-labelledby="mapmarker" title="Map Marker">
+					
+						<span class="fa fa-map-marker" aria-hidden="true"></span>
+					</button>
+				</a>
+			</li>
+			<li class="option">
+				<a title="Phone" href="tel:18001030004">
+					<button class="material-button option2" type="button" aria-label="Phone" aria-labelledby="phone" title="Phone">
+					
+						<span class="fa fa-phone" aria-hidden="true"></span>
+					</button>
+					
+				</a>
+			</li>`
+			if ($("#options").html() !== "") {
+				$("#options").html("");
+			} else {
+				$("#options").html(html);
+			}
+		$(".option").toggleClass("scale-on")
+		$("#options").toggleClass("list-inline" )
+
+	})
+</script>
+<!-- <script async type="text/javascript">
+	(function (botId) {
+		var s = document.createElement("script");
+		s.async = true;
+		// s.defer = true; // Add the defer attribute
+		s.type = 'text/javascript';
+		s.src = "https://app.chat360.io/widget/chatbox/common_scripts/script.js";
+		s.onload = function () {
+			setTimeout(function() {
+				window.loadChat360Bot(botId);
+			}, 1000); // 1-second delay
+		};
+		s.onerror = function (err) {
+			console.error(err);
+		};
+		document.body.appendChild(s);
+	})("ffdd2985-9725-47c8-82de-39abdf72a461");
+</script> -->
+<!-- Please configure the mentioned Bot id --> 
+
+<!-- Bot id - c460b254-17f1-4f52-acc9-3c555ffd272b --> 
+  <script> 
+    (function (botId) { 
+      var s = document.createElement("script");
+      s.async = true;
+      s.type = 'text/javascript';
+      s.src = "https://app.chat360.io/widget/chatbox/common_scripts/script.js";
+      s.onload = function () {
+        window.loadChat360Bot(botId);
+      };
+      s.onerror = function (err) {
+        console.error(err);
+      };
+      document.body.appendChild(s); 
+    })("c460b254-17f1-4f52-acc9-3c555ffd272b"); 
+  </script> 
+
+    <script src="/static/js/utils.js"></script>
+
+</body>
+</html>
