@@ -1,21 +1,34 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Jai Hanuman Tiles & Sanitary
 
-# Run and deploy your AI Studio app
+Welcome to the **Jai Hanuman Tiles & Sanitary** official website and showroom repository. 
 
-This contains everything you need to run your app locally.
+This project is a modern, interactive web application featuring an immersive **360-degree VR Room Viewer** that allows customers to preview tiles, marbles, granites, and sanitary ware as if they are standing right inside the room.
 
-View your app in AI Studio: https://ai.studio/apps/73176f22-f3cc-4adc-b9b4-901b74426e77
+## Features
 
-## Run Locally
+- **Interactive 360-Degree Showroom**: Experience seamless 360 panoramas of luxury interiors showcasing our premium products.
+- **Product Catalog**: Browse through our extensive collection of floor tiles, wall slabs, vitrified tiles, and natural stones (Statuario, Granite, Calacatta).
+- **Responsive Design**: A sleek, dark-themed, glassmorphic UI built with React and Vite that looks great on mobile and desktop devices.
+- **Fast Performance**: Optimized image assets and lightweight components for instant loading.
 
-**Prerequisites:**  [Android Studio](https://developer.android.com/studio)
+## Getting Started
 
+To run the web app locally:
 
-1. Open Android Studio
-2. Select **Open** and choose the directory containing this project
-3. Allow Android Studio to fix any incompatibilities as it imports the project.
-4. Create a file named `.env` in the project directory and set `GEMINI_API_KEY` in that file to your Gemini API key (see `.env.example` for an example)
-5. Remove this line from the app's `build.gradle.kts` file: `signingConfig = signingConfigs.getByName("debugConfig")`
-6. Run the app on an emulator or physical device
+1. Navigate to the `website` directory:
+   ```bash
+   cd website
+   ```
+2. Install the dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+## Technologies Used
+- **Frontend**: React, Vite
+- **Styling**: Vanilla CSS with modern flexbox/grid and glassmorphism
+- **360 Viewer**: react-photo-sphere-viewer
