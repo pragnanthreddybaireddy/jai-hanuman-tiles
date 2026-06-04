@@ -1,0 +1,133 @@
+:root {
+  --charcoal-dark: #0a0a0a;
+  --charcoal-card: #141414;
+  --charcoal-light: #1e1e1e;
+  --gold-primary: #C5A059;
+  --gold-accent: #D4AF37;
+  --text-light: #ffffff;
+  --text-muted: rgba(255, 255, 255, 0.6);
+  --border-light: rgba(255, 255, 255, 0.1);
+  --border-super-light: rgba(255, 255, 255, 0.05);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  background-color: var(--charcoal-dark);
+  color: var(--text-light);
+  line-height: 1.6;
+}
+
+.app-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.main-content {
+  flex: 1;
+  padding-top: 80px; /* Account for fixed navbar */
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+ul {
+  list-style: none;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+/* Elegant Section Header */
+.elegant-header {
+  margin-bottom: 32px;
+}
+.elegant-category {
+  color: var(--gold-primary);
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 8px;
+  display: block;
+}
+.elegant-title {
+  font-size: 2.5rem;
+  line-height: 1.2;
+  margin-bottom: 12px;
+}
+.elegant-title-normal {
+  color: var(--text-light);
+  font-weight: 700;
+}
+.elegant-title-italic {
+  color: var(--gold-primary);
+  font-weight: 400;
+  font-style: italic;
+}
+.elegant-desc {
+  color: var(--text-muted);
+  font-size: 1rem;
+  max-width: 600px;
+}
+
+/* Glass Card */
+.glass-card {
+  background-color: var(--charcoal-card);
+  border: 1px solid var(--border-super-light);
+  border-radius: 16px;
+  overflow: hidden;
+}
+
+/* Buttons */
+.luxury-btn {
+  padding: 12px 24px;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 0.9rem;
+  letter-spacing: 1px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  text-align: center;
+  display: inline-block;
+  text-transform: uppercase;
+}
+.luxury-btn.primary {
+  background-color: var(--gold-primary);
+  color: #000;
+  border: 1px solid var(--gold-primary);
+}
+.luxury-btn.primary:hover {
+  background-color: var(--gold-accent);
+}
+.luxury-btn.secondary {
+  background-color: transparent;
+  color: var(--gold-primary);
+  border: 1px solid var(--gold-primary);
+}
+.luxury-btn.secondary:hover {
+  background-color: rgba(197, 160, 89, 0.1);
+}
+
+.whatsapp-btn {
+  background-color: #25D366;
+  color: white;
+  border: none;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.whatsapp-btn:hover {
+  background-color: #1ebd5a;
+}

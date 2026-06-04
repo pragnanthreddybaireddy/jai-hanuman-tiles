@@ -1,0 +1,226 @@
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+  background: rgba(10, 10, 10, 0.5);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+  transition: all 0.4s ease;
+}
+
+.navbar.scrolled {
+  background: rgba(8, 8, 8, 0.95);
+  border-bottom: 1px solid rgba(197, 160, 89, 0.2);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.6);
+}
+
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 32px;
+}
+
+/* Brand Section */
+.brand-section {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.brand-logo {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 1px solid var(--gold-primary);
+}
+
+.brand-name {
+  display: flex;
+  flex-direction: column;
+}
+
+.brand-name h1 {
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--text-light);
+  letter-spacing: 1px;
+  margin: 0;
+}
+
+.brand-name span {
+  font-size: 0.75rem;
+  color: var(--gold-accent);
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+
+/* Main Links */
+.nav-links {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: rgba(255, 255, 255, 0.03);
+  padding: 4px 8px;
+  border-radius: 40px;
+}
+
+.nav-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+
+.nav-item a {
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 30px;
+  transition: all 0.3s ease;
+}
+
+.nav-item a.active {
+  color: black;
+  background: var(--gold-primary);
+  box-shadow: 0 4px 15px rgba(197, 160, 89, 0.4);
+}
+
+.nav-item a:hover:not(.active) {
+  color: white;
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.active-indicator {
+  display: none;
+}
+
+/* Nav Actions */
+.nav-actions {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.call-nav-btn {
+  background: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  color: white;
+  padding: 10px 20px;
+  border-radius: 30px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+.call-nav-btn:hover {
+  background: rgba(255, 255, 255, 0.1);
+  border-color: white;
+  transform: translateY(-2px);
+}
+
+.call-nav-btn .text {
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+.whatsapp-nav-btn {
+  background: linear-gradient(135deg, var(--gold-primary), var(--gold-accent));
+  color: black;
+  padding: 10px 20px;
+  border-radius: 30px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  text-decoration: none;
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  border: none;
+  box-shadow: 0 4px 15px rgba(197, 160, 89, 0.2);
+}
+
+.whatsapp-nav-btn:hover {
+  transform: translateY(-2px) scale(1.05);
+  box-shadow: 0 8px 25px rgba(197, 160, 89, 0.4);
+}
+
+.whatsapp-nav-btn .text {
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+.mobile-toggle {
+  display: none;
+  background: transparent;
+  border: none;
+  color: var(--gold-primary);
+  font-size: 1.8rem;
+  cursor: pointer;
+  padding: 4px;
+}
+
+/* Responsive */
+@media (max-width: 950px) {
+  .nav-container {
+    padding: 16px 20px;
+  }
+  
+  .brand-name span {
+    display: none;
+  }
+  
+  .nav-links {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    background-color: rgba(14, 14, 14, 0.98);
+    backdrop-filter: blur(20px);
+    border-bottom: 1px solid rgba(197, 160, 89, 0.2);
+    flex-direction: column;
+    padding: 24px 0;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+    border-radius: 0;
+  }
+
+  .nav-links.open {
+    display: flex;
+    gap: 16px;
+  }
+  
+  .nav-item {
+    width: 90%;
+  }
+  
+  .nav-item a {
+    width: 100%;
+    text-align: center;
+  }
+
+  .mobile-toggle {
+    display: block;
+  }
+}
+
+@media (max-width: 600px) {
+  .whatsapp-nav-btn .text, .call-nav-btn .text {
+    display: none;
+  }
+  .whatsapp-nav-btn, .call-nav-btn {
+    padding: 10px;
+    border-radius: 50%;
+  }
+}

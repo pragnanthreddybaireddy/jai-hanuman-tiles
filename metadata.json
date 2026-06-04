@@ -1,0 +1,6 @@
+{
+  "name": "Jai Hanuman Tiles & Sanitary",
+  "description": "Showroom application for Jai Hanuman Tiles & Sanitary, Hyderabad's premium destination for tiles, sanity ware, and bathroom solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

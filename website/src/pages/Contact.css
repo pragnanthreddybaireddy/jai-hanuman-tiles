@@ -1,0 +1,174 @@
+.contact-page {
+  padding-bottom: 80px;
+  animation: fadeIn 0.8s ease-out;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(30px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.inquiry-hero {
+  padding: 100px 24px 64px 24px;
+  background-image: linear-gradient(rgba(10, 10, 10, 0.7), rgba(10, 10, 10, 0.95)), url('/images/texture.png');
+  background-size: cover;
+  background-position: center;
+}
+
+.inquiry-hero .elegant-header {
+  animation: slideUp 0.8s ease-out 0.2s both;
+}
+
+.form-section {
+  padding: 32px 24px;
+}
+
+.form-label {
+  color: var(--gold-primary);
+  font-size: 0.8rem;
+  letter-spacing: 1.5px;
+  display: block;
+  margin-bottom: 16px;
+}
+
+.inquiry-form {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  max-width: 800px;
+}
+
+.form-input {
+  width: 100%;
+  background-color: rgba(20, 20, 20, 0.6);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1px solid var(--border-light);
+  border-radius: 12px;
+  padding: 16px;
+  color: white;
+  font-size: 1rem;
+  transition: all 0.3s ease;
+}
+
+.form-input:focus {
+  outline: none;
+  border-color: var(--gold-primary);
+  background-color: rgba(30, 30, 30, 0.8);
+  box-shadow: 0 0 15px rgba(197, 160, 89, 0.1);
+}
+
+.form-select {
+  appearance: none;
+  background-color: var(--charcoal-dark);
+}
+
+.form-textarea {
+  min-height: 110px;
+  resize: vertical;
+}
+
+.error-text {
+  color: #ff5252;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.submit-btn {
+  width: 100%;
+  margin-top: 8px;
+}
+
+/* Success Card */
+.success-card {
+  padding: 32px;
+  text-align: center;
+  border-color: var(--gold-primary);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  max-width: 800px;
+}
+
+.success-icon-container {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background-color: rgba(197, 160, 89, 0.15);
+  border: 1px solid var(--gold-primary);
+  color: var(--gold-primary);
+  font-size: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.success-title {
+  color: white;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.success-desc {
+  color: lightgray;
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+.divider {
+  width: 100%;
+  height: 1px;
+  background-color: var(--border-super-light);
+  margin: 8px 0;
+}
+
+.success-buttons {
+  display: flex;
+  gap: 16px;
+  width: 100%;
+}
+.success-buttons button {
+  flex: 1;
+}
+
+/* Hours */
+.hours-section {
+  padding: 24px;
+}
+
+.hours-card {
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  max-width: 800px;
+}
+
+.timing-row {
+  display: flex;
+  justify-content: space-between;
+  color: lightgray;
+  font-size: 0.9rem;
+}
+.timing-row .time {
+  color: var(--gold-primary);
+  font-weight: 600;
+}
+
+.direct-support {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  color: white;
+  font-weight: bold;
+  font-size: 0.9rem;
+}
+.support-icon {
+  color: var(--gold-primary);
+}

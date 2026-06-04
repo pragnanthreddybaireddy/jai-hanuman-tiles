@@ -1,0 +1,60 @@
+.viewer-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.9);
+  z-index: 10000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.viewer-container {
+  width: 90vw;
+  height: 90vh;
+  background: #1a1a1a;
+  border-radius: 12px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+}
+
+.viewer-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background: #2a2a2a;
+  color: white;
+}
+
+.viewer-header h3 {
+  margin: 0;
+  font-family: 'Playfair Display', serif;
+  font-style: italic;
+  font-weight: 400;
+}
+
+.viewer-header .close-btn {
+  background: none;
+  border: none;
+  color: white;
+  cursor: pointer;
+  transition: transform 0.2s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.viewer-header .close-btn:hover {
+  transform: scale(1.1);
+  color: #D4AF37;
+}
+
+.viewer-content {
+  flex: 1;
+  position: relative;
+}
