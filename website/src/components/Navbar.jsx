@@ -28,11 +28,11 @@ export default function Navbar() {
       <header className={`navbar ${isScrolled ? 'scrolled' : ''}`}>
         <div className="nav-container">
           {/* Brand Section */}
-          <Link to="/" className="brand-section">
-            <img src="images/logo.png" alt="Jai Hanuman Logo" className="brand-logo" />
+          <Link to="/" className="brand-section" aria-label="Jai Hanuman Tiles & Sanitary">
+            <img src="images/logo.png" alt="Jai Hanuman Tiles & Sanitary" className="brand-logo" />
             <div className="brand-name">
               <h1>JAI HANUMAN</h1>
-              <span>TILES</span>
+              <span>TILES & SANITARY</span>
             </div>
           </Link>
           
@@ -105,14 +105,14 @@ export default function Navbar() {
               </p>
               
               <div className="theme-option active">
-                <div className="theme-circle" style={{ backgroundColor: '#0F0F0F' }}>
-                  <div className="theme-inner-circle" style={{ backgroundColor: '#C5A059' }}></div>
+                <div className="theme-circle" style={{ backgroundColor: '#FFFFFF', border: '1.5px solid #A1742A' }}>
+                  <div className="theme-inner-circle" style={{ backgroundColor: '#A1742A' }}></div>
                 </div>
                 <div className="theme-info">
-                  <h4>ONYX (ACTIVE)</h4>
-                  <p>Deep charcoal with classic gold.</p>
+                  <h4 style={{ color: '#111827' }}>PEARL & GOLD (ACTIVE)</h4>
+                  <p style={{ color: '#4B5563' }}>Bright architectural white with luxury warm gold.</p>
                 </div>
-                <div className="theme-check"><CheckCircle2 size={16} color="#C5A059" /></div>
+                <div className="theme-check"><CheckCircle2 size={16} color="#A1742A" /></div>
               </div>
               
             </div>

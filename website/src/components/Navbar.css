@@ -4,17 +4,18 @@
   left: 0;
   width: 100%;
   z-index: 1000;
-  background: rgba(10, 10, 10, 0.5);
+  background: rgba(255, 255, 255, 0.95);
   backdrop-filter: blur(16px);
   -webkit-backdrop-filter: blur(16px);
-  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
-  transition: all 0.4s ease;
+  border-bottom: 1px solid #E5E7EB;
+  transition: all 0.3s ease;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.03);
 }
 
 .navbar.scrolled {
-  background: rgba(8, 8, 8, 0.95);
-  border-bottom: 1px solid rgba(197, 160, 89, 0.2);
-  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.6);
+  background: #FFFFFF;
+  border-bottom: 1px solid #E5E7EB;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
 }
 
 .nav-container {
@@ -34,11 +35,25 @@
 }
 
 .brand-logo {
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
-  object-fit: cover;
-  border: 1px solid var(--gold-primary);
+  width: 46px;
+  height: 46px;
+  border-radius: 10px;
+  object-fit: contain;
+  border: 1.5px solid var(--gold-primary);
+  background: #FFFFFF;
+  padding: 2px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.navbar.scrolled .brand-logo {
+  width: 42px;
+  height: 42px;
+}
+
+.brand-section:hover .brand-logo {
+  transform: scale(1.06);
+  box-shadow: 0 4px 14px rgba(161, 116, 42, 0.25);
 }
 
 .brand-name {
@@ -47,28 +62,30 @@
 }
 
 .brand-name h1 {
-  font-size: 1rem;
-  font-weight: 700;
-  color: var(--text-light);
-  letter-spacing: 1px;
+  font-size: 1.05rem;
+  font-weight: 800;
+  color: #111827;
+  letter-spacing: 0.8px;
   margin: 0;
+  line-height: 1.1;
 }
 
 .brand-name span {
-  font-size: 0.75rem;
-  color: var(--gold-accent);
-  font-weight: 600;
-  letter-spacing: 0.5px;
+  font-size: 0.7rem;
+  color: var(--gold-primary);
+  font-weight: 700;
+  letter-spacing: 1.2px;
 }
 
 /* Main Links */
 .nav-links {
   display: flex;
   align-items: center;
-  gap: 8px;
-  background: rgba(255, 255, 255, 0.03);
-  padding: 4px 8px;
+  gap: 6px;
+  background: #F3F4F6;
+  padding: 4px 6px;
   border-radius: 40px;
+  border: 1px solid #E5E7EB;
 }
 
 .nav-item {
@@ -79,25 +96,26 @@
 }
 
 .nav-item a {
-  color: rgba(255, 255, 255, 0.7);
-  font-size: 0.75rem;
+  color: #4B5563;
+  font-size: 0.78rem;
   font-weight: 600;
-  letter-spacing: 1px;
+  letter-spacing: 0.8px;
   text-decoration: none;
-  padding: 10px 20px;
+  padding: 8px 18px;
   border-radius: 30px;
-  transition: all 0.3s ease;
+  transition: all 0.25s ease;
 }
 
 .nav-item a.active {
-  color: black;
-  background: var(--gold-primary);
-  box-shadow: 0 4px 15px rgba(197, 160, 89, 0.4);
+  color: #FFFFFF;
+  background: #111827;
+  box-shadow: 0 2px 8px rgba(17, 24, 39, 0.2);
+  font-weight: 700;
 }
 
 .nav-item a:hover:not(.active) {
-  color: white;
-  background: rgba(255, 255, 255, 0.1);
+  color: #111827;
+  background: #E5E7EB;
 }
 
 .active-indicator {
@@ -112,60 +130,64 @@
 }
 
 .call-nav-btn {
-  background: transparent;
-  border: 1px solid rgba(255, 255, 255, 0.4);
-  color: white;
-  padding: 10px 20px;
+  background: #FFFFFF;
+  border: 1.5px solid #D1D5DB;
+  color: #111827;
+  padding: 9px 18px;
   border-radius: 30px;
   display: flex;
   align-items: center;
   gap: 6px;
   text-decoration: none;
-  transition: all 0.3s ease;
+  transition: all 0.25s ease;
+  font-weight: 700;
 }
 
 .call-nav-btn:hover {
-  background: rgba(255, 255, 255, 0.1);
-  border-color: white;
-  transform: translateY(-2px);
+  background: #F9FAFB;
+  border-color: #111827;
+  color: #111827;
+  transform: translateY(-1px);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
 }
 
 .call-nav-btn .text {
   font-size: 0.75rem;
   font-weight: 700;
-  letter-spacing: 1px;
+  letter-spacing: 0.8px;
 }
 
 .whatsapp-nav-btn {
-  background: linear-gradient(135deg, var(--gold-primary), var(--gold-accent));
-  color: black;
-  padding: 10px 20px;
+  background: #25D366;
+  color: #FFFFFF;
+  padding: 9px 18px;
   border-radius: 30px;
   display: flex;
   align-items: center;
   gap: 6px;
   text-decoration: none;
-  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
   border: none;
-  box-shadow: 0 4px 15px rgba(197, 160, 89, 0.2);
+  box-shadow: 0 3px 10px rgba(37, 211, 102, 0.25);
 }
 
 .whatsapp-nav-btn:hover {
-  transform: translateY(-2px) scale(1.05);
-  box-shadow: 0 8px 25px rgba(197, 160, 89, 0.4);
+  transform: translateY(-2px);
+  background-color: #1ebd5a;
+  box-shadow: 0 6px 16px rgba(37, 211, 102, 0.35);
 }
 
 .whatsapp-nav-btn .text {
   font-size: 0.75rem;
   font-weight: 700;
-  letter-spacing: 1px;
+  letter-spacing: 0.8px;
 }
 
 .mobile-toggle {
   display: none;
   background: transparent;
   border: none;
-  color: var(--gold-primary);
+  color: #111827;
   font-size: 1.8rem;
   cursor: pointer;
   padding: 4px;
@@ -174,11 +196,25 @@
 /* Responsive */
 @media (max-width: 950px) {
   .nav-container {
-    padding: 16px 20px;
+    padding: 8px 18px;
   }
   
+  .brand-logo {
+    width: 40px;
+    height: 40px;
+  }
+
+  .navbar.scrolled .brand-logo {
+    width: 38px;
+    height: 38px;
+  }
+
+  .brand-name h1 {
+    font-size: 0.95rem;
+  }
+
   .brand-name span {
-    display: none;
+    font-size: 0.65rem;
   }
   
   .nav-links {
@@ -187,18 +223,17 @@
     top: 100%;
     left: 0;
     width: 100%;
-    background-color: rgba(14, 14, 14, 0.98);
-    backdrop-filter: blur(20px);
-    border-bottom: 1px solid rgba(197, 160, 89, 0.2);
+    background-color: #FFFFFF;
+    border-bottom: 1px solid #E5E7EB;
     flex-direction: column;
-    padding: 24px 0;
-    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+    padding: 20px 0;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
     border-radius: 0;
   }
 
   .nav-links.open {
     display: flex;
-    gap: 16px;
+    gap: 12px;
   }
   
   .nav-item {
@@ -208,6 +243,7 @@
   .nav-item a {
     width: 100%;
     text-align: center;
+    padding: 12px;
   }
 
   .mobile-toggle {
@@ -216,6 +252,12 @@
 }
 
 @media (max-width: 600px) {
+  .brand-name span {
+    display: none;
+  }
+  .brand-name h1 {
+    font-size: 0.85rem;
+  }
   .whatsapp-nav-btn .text, .call-nav-btn .text {
     display: none;
   }

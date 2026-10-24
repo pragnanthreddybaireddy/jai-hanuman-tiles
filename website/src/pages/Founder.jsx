@@ -4,7 +4,7 @@ import { Star, CheckCircle2 } from 'lucide-react';
 
 export default function Founder() {
   const timeline = [
-    { year: "Pre-2002", title: "Ceramics Graduation", desc: "Graduated in Ceramics from the prestigious Govt Institute of Ceramic Technology in Goodur, mastering the scientific fundamentals of the trade." },
+    { year: "Pre-2002", title: "Ceramics Graduation", desc: "Graduated in Ceramics from the prestigious Govt Institute of Ceramic Technology in Gudoor, mastering the scientific fundamentals of the trade." },
     { year: "2002-2012", title: "Industrial Ceramic Experience", desc: "Accumulated a decade of hands-on industrial experience in the ceramics sector, acquiring deep technical knowledge before venturing into retail." },
     { year: "2012", title: "Flagship Opening at Nagole", desc: "Mr. Bujala Praveen Kumar Reddy ventured into premium ceramics retailing with the core flagship branch at Nagole Crossroads, building associations with leading brands like Kajaria and Johnson." },
     { year: "2015", title: "Expansion of Builder Network", desc: "Established deep ties with Hyderabad's elite architects and builders. Sourced huge double-charged vitrified floor tiles & custom water closets for large-scale premium developments." },
@@ -18,8 +18,8 @@ export default function Founder() {
       {/* 1. BRAND HERO FOR FOUNDER */}
       <section className="founder-hero">
         <div className="founder-hero-content">
-          <div className="founder-icon-container">
-            <span className="founder-icon"><Star size={24} color="#C5A059" fill="#C5A059" /></span>
+          <div className="founder-logo-wrapper">
+            <img src="images/logo.png" alt="Jai Hanuman Logo" className="founder-store-logo" />
           </div>
           <div className="founder-titles">
             <h1 className="founder-name">BUJALA PRAVEEN KUMAR REDDY</h1>

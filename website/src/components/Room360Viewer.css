@@ -4,7 +4,8 @@
   left: 0;
   width: 100vw;
   height: 100vh;
-  background-color: rgba(0, 0, 0, 0.9);
+  background-color: rgba(17, 24, 39, 0.88);
+  backdrop-filter: blur(8px);
   z-index: 10000;
   display: flex;
   justify-content: center;
@@ -14,47 +15,50 @@
 .viewer-container {
   width: 90vw;
   height: 90vh;
-  background: #1a1a1a;
-  border-radius: 12px;
+  background: #FFFFFF;
+  border-radius: 16px;
   overflow: hidden;
   display: flex;
   flex-direction: column;
-  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 25px 60px rgba(0, 0, 0, 0.3);
+  border: 1px solid #E5E7EB;
 }
 
 .viewer-header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 1rem 2rem;
-  background: #2a2a2a;
-  color: white;
+  padding: 1.2rem 2rem;
+  background: #FFFFFF;
+  color: #111827;
+  border-bottom: 1px solid #E5E7EB;
 }
 
 .viewer-header h3 {
   margin: 0;
-  font-family: 'Playfair Display', serif;
-  font-style: italic;
-  font-weight: 400;
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: #111827;
 }
 
 .viewer-header .close-btn {
   background: none;
   border: none;
-  color: white;
+  color: #111827;
   cursor: pointer;
-  transition: transform 0.2s;
+  transition: transform 0.2s, color 0.2s;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
 .viewer-header .close-btn:hover {
-  transform: scale(1.1);
-  color: #D4AF37;
+  transform: scale(1.15);
+  color: #A1742A;
 }
 
 .viewer-content {
   flex: 1;
   position: relative;
+  background-color: #F3F4F6;
 }

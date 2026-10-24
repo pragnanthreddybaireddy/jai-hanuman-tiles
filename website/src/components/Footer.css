@@ -1,7 +1,8 @@
 .footer {
   margin-top: auto;
   padding: 4rem 0 2rem;
-  border-top: 1px solid var(--glass-border);
+  background-color: #F8F9FA;
+  border-top: 1px solid #E5E7EB;
 }
 
 .footer-content {
@@ -11,16 +12,55 @@
   margin-bottom: 3rem;
 }
 
+.footer-brand-col {
+  display: flex;
+  flex-direction: column;
+}
+
+.footer-logo-wrap {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1.2rem;
+}
+
+.footer-logo-img {
+  height: 104px;
+  width: auto;
+  max-width: 220px;
+  object-fit: contain;
+  background: #FFFFFF;
+  border-radius: 14px;
+  padding: 5px;
+  border: 1.5px solid #A1742A;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
+  transition: transform 0.25s ease;
+}
+
+.footer-logo-img:hover {
+  transform: scale(1.04);
+}
+
+.footer-dealership-tag {
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: #4B5563;
+  padding-top: 6px;
+}
+
 .footer-col h4 {
-  font-size: 1.2rem;
+  font-size: 1rem;
   margin-bottom: 1.5rem;
-  color: var(--primary-color);
+  color: #111827;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-weight: 800;
 }
 
 .footer-desc {
-  color: var(--text-muted);
+  color: #4B5563;
   margin: 1rem 0 1.5rem;
   font-size: 0.95rem;
+  line-height: 1.7;
 }
 
 .social-links {
@@ -32,17 +72,23 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 40px;
-  height: 40px;
+  width: 42px;
+  height: 42px;
   border-radius: 50%;
-  background: rgba(255, 255, 255, 0.05);
-  transition: var(--transition);
+  background: #FFFFFF;
+  color: #111827;
+  border: 1.5px solid #D1D5DB;
+  font-weight: 700;
+  font-size: 0.85rem;
+  transition: all 0.25s ease;
 }
 
 .social-links a:hover {
-  background: var(--primary-color);
-  color: #111;
+  background: #111827;
+  color: #FFFFFF;
+  border-color: #111827;
   transform: translateY(-3px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
 .contact-list li, .hours-list li {
@@ -50,26 +96,28 @@
   align-items: flex-start;
   gap: 1rem;
   margin-bottom: 1rem;
-  color: var(--text-muted);
+  color: #4B5563;
   font-size: 0.95rem;
+  font-weight: 500;
 }
 
 .contact-list li svg {
-  color: var(--primary-color);
+  color: #A1742A;
   flex-shrink: 0;
   margin-top: 2px;
 }
 
 .hours-list li span {
-  font-weight: 500;
-  color: var(--text-main);
+  font-weight: 700;
+  color: #111827;
   min-width: 140px;
 }
 
 .footer-bottom {
   text-align: center;
   padding-top: 2rem;
-  border-top: 1px solid rgba(255, 255, 255, 0.05);
-  color: var(--text-muted);
+  border-top: 1px solid #E5E7EB;
+  color: #6B7280;
   font-size: 0.85rem;
+  font-weight: 500;
 }

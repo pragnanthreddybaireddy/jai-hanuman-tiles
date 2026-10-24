@@ -2,11 +2,10 @@ import React, { useState, useEffect } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import './Home.css';
 import { products } from '../data';
-import { Check, MapPin, Star, ExternalLink, ArrowLeft, ArrowRight } from 'lucide-react';
+import { Check, MapPin, Star, ExternalLink, ArrowLeft, ArrowRight, ShieldCheck, Award, Sparkles } from 'lucide-react';
 
 export default function Home() {
   const navigate = useNavigate();
-  
   const [counters, setCounters] = useState({ years: 0, branches: 0, customers: 0 });
   
   useEffect(() => {
@@ -62,23 +61,68 @@ export default function Home() {
       {/* 1. HERO SECTION */}
       <section className="hero-section">
         <div className="hero-radial-bg"></div>
-        <div className="hero-content container">
-          <div className="hero-editorial">
-            <span className="est">EST. 2012</span>
-            <span className="dot"></span>
-            <span className="city">HYDERABAD</span>
+        <div className="container hero-container">
+          <div className="hero-content">
+            <div className="hero-editorial">
+              <span className="est">EST. 2012</span>
+              <span className="dot"></span>
+              <span className="city">HYDERABAD</span>
+              <span className="dot"></span>
+              <span className="hero-tag">CERAMIC SPECIALISTS</span>
+            </div>
+            <h1 className="hero-title">
+              <span className="line1">Building</span><br/>
+              <span className="line2 italic">Beautiful</span><br/>
+              <span className="line3">Spaces.</span>
+            </h1>
+            <p className="hero-subtitle">
+              Hyderabad's trusted destination for premium vitrified tiles, marble slabs, designer sanitary ware, and bespoke bathroom solutions.
+            </p>
+            <div className="hero-buttons">
+              <button className="luxury-btn primary" onClick={() => navigate('/showroom')}>Explore Catalog</button>
+              <button className="luxury-btn secondary" onClick={() => navigate('/contact')}>Visit Showroom</button>
+            </div>
+            <div className="hero-trust-badges">
+              <div className="trust-badge">
+                <ShieldCheck size={16} className="badge-icon" />
+                <span>100% Genuine Brands</span>
+              </div>
+              <div className="trust-badge">
+                <MapPin size={16} className="badge-icon" />
+                <span>Nagole & Hayathnagar</span>
+              </div>
+              <div className="trust-badge">
+                <Award size={16} className="badge-icon" />
+                <span>20+ Yrs Experience</span>
+              </div>
+            </div>
           </div>
-          <h1 className="hero-title">
-            <span className="line1">Building</span><br/>
-            <span className="line2 italic">Beautiful</span><br/>
-            <span className="line3">Spaces.</span>
-          </h1>
-          <p className="hero-subtitle">
-            Hyderabad's trusted destination for premium tiles, sanitary ware, and bathroom solutions.
-          </p>
-          <div className="hero-buttons">
-            <button className="luxury-btn primary" onClick={() => navigate('/showroom')}>Explore range</button>
-            <button className="luxury-btn secondary" onClick={() => navigate('/contact')}>Contact Us</button>
+
+          <div className="hero-showcase-card glass-card">
+            <div className="showcase-badge-row">
+              <span className="showcase-pill"><Sparkles size={13} /> PREMIUM SURFACE GALLERY</span>
+              <span className="stock-indicator">✓ IN-STOCK TILES</span>
+            </div>
+            <div className="showcase-img-wrap" onClick={() => navigate('/showroom')}>
+              <img src="images/showroom.png" alt="Jai Hanuman Tiles & Sanitary Showroom" />
+              <div className="showcase-overlay-btn">
+                <span>VIEW TILES & SLABS</span>
+                <ArrowRight size={18} />
+              </div>
+            </div>
+            <div className="showcase-meta">
+              <h4>Exclusive Tiles & Sanitary Collections</h4>
+              <p>Large-format glazed vitrified slabs, Italian marble looks, and designer bath fittings from top Indian brands.</p>
+              <div className="showcase-chips">
+                <span>Vitrified Slabs</span>
+                <span>Sanitary Ware</span>
+                <span>Designer Bath</span>
+                <span>Wall Tiles</span>
+              </div>
+              <button className="luxury-btn primary btn-small w-100" onClick={() => navigate('/showroom')}>
+                EXPLORE CATALOG
+              </button>
+            </div>
           </div>
         </div>
       </section>
@@ -107,17 +151,67 @@ export default function Home() {
 
       {/* 3. ABOUT COMPANY EDITORIAL */}
       <section className="about-editorial-section container">
-        <div className="elegant-header">
-          <span className="elegant-category">Our Legacy</span>
-          <h2 className="elegant-title">
-            <span className="elegant-title-normal">About </span>
-            <span className="elegant-title-italic">Jai Hanuman</span>
-          </h2>
-        </div>
-        <div className="editorial-text">
-          <p>Led by a founder with over 20+ years of deep industrial and retail experience (a Ceramic Graduate from Govt Institute of Ceramic Technology, Goodur), Jai Hanuman Tiles & Sanitary is one of Hyderabad's trusted destinations for premium tiles and sanitary solutions. Established in 2012 at Nagole, the company quickly earned a reputation for quality products, expert guidance, and customer satisfaction.</p>
-          <p>With growing customer trust and increasing demand, the second branch was established in Hayathnagar in 2018, continuing the legacy and commitment to excellence.</p>
-          <p>Today, Jai Hanuman Tiles & Sanitary serves homeowners, builders, architects, and interior designers with a wide range of premium products from India's leading brands.</p>
+        <div className="about-grid">
+          <div className="about-left">
+            <div className="glass-card store-logo-card">
+              <div className="section-prominent-logo-box">
+                <img src="images/logo.png" alt="Jai Hanuman Tiles & Sanitary Logo" className="section-prominent-logo-img" />
+                <div className="section-logo-meta">
+                  <span className="meta-brand-title">JAI HANUMAN</span>
+                  <span className="meta-sub">TILES & SANITARY</span>
+                </div>
+              </div>
+              <div className="store-logo-details">
+                <h3>Jai Hanuman Tiles & Sanitary</h3>
+                <p className="store-logo-tagline">Authorized Dealer for Premium Tiles & Flawless Sanitary Ware</p>
+                <div className="store-badges">
+                  <div className="store-badge-item">
+                    <span className="badge-check"><Check size={14} /></span>
+                    <span>Nagole & Hayathnagar Showrooms</span>
+                  </div>
+                  <div className="store-badge-item">
+                    <span className="badge-check"><Check size={14} /></span>
+                    <span>Certified Ceramic Engineering Expertise</span>
+                  </div>
+                  <div className="store-badge-item">
+                    <span className="badge-check"><Check size={14} /></span>
+                    <span>Kajaria • Somany • Johnson • Nitco • RAK</span>
+                  </div>
+                </div>
+                <div className="store-action">
+                  <button className="luxury-btn primary btn-small" onClick={() => navigate('/founder')}>
+                    MEET THE FOUNDER
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="about-right">
+            <div className="elegant-header">
+              <span className="elegant-category">Our Legacy</span>
+              <h2 className="elegant-title">
+                <span className="elegant-title-normal">About </span>
+                <span className="elegant-title-italic">Jai Hanuman</span>
+              </h2>
+            </div>
+            <div className="editorial-text">
+              <p>Led by a founder with over 20+ years of deep industrial and retail experience (a Ceramic Graduate from Govt Institute of Ceramic Technology, Gudoor), Jai Hanuman Tiles & Sanitary is one of Hyderabad's trusted destinations for premium tiles and sanitary solutions. Established in 2012 at Nagole, the company quickly earned a reputation for quality products, expert guidance, and customer satisfaction.</p>
+              <p>With growing customer trust and increasing demand, the second branch was established in Hayathnagar in 2018, continuing the legacy and commitment to excellence.</p>
+              <p>Today, Jai Hanuman Tiles & Sanitary serves homeowners, builders, architects, and interior designers with a wide range of premium products from India's leading brands.</p>
+              
+              <div className="about-features-row">
+                <div className="about-feature-box">
+                  <h4>100% Genuine</h4>
+                  <p>Direct factory sourced branded tiles with warranty.</p>
+                </div>
+                <div className="about-feature-box">
+                  <h4>Expert Sizing</h4>
+                  <p>Complete consultation on thickness & slip resistance.</p>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </section>
 
@@ -251,7 +345,7 @@ export default function Home() {
             {
               name: "Johnson",
               desc: "Heritage of Quality since 1958.",
-              logo: "images/brands/johnson.svg",
+              logo: "images/brands/johnson.png",
               url: "https://hrjohnsonindia.com/"
             },
             {
@@ -263,13 +357,13 @@ export default function Home() {
             {
               name: "Nitco",
               desc: "Premium Surface Solutions.",
-              logo: "images/brands/nitco.svg",
+              logo: "images/brands/nitco.png",
               url: "https://www.nitco.in/"
             },
             {
               name: "RAK Ceramics",
               desc: "Global lifestyle ceramic brand.",
-              logo: "images/brands/rak.svg",
+              logo: "images/brands/rak.png",
               url: "https://www.rakceramics.com/india/en-in"
             }
           ].map((brand, i) => (

@@ -35,21 +35,28 @@ export default function Contact() {
     <div className="contact-page">
       {/* 1. BRAND HERO FOR INQUIRY */}
       <section className="inquiry-hero">
-        <div className="elegant-header">
-          <span className="elegant-category">Virtual Showroom</span>
-          <h2 className="elegant-title">
-            <span className="elegant-title-normal">Connect </span>
-            <span className="elegant-title-italic">Inquire Now</span>
-          </h2>
-          <p className="elegant-desc">Have custom construction requirements? Fill the luxury register model below. Our showroom managers will reach out.</p>
+        <div className="container inquiry-header-wrap">
+          <div className="elegant-header inquiry-header-text">
+            <span className="elegant-category">Direct Consultation & Estimates</span>
+            <h2 className="elegant-title">
+              <span className="elegant-title-normal">Connect & </span>
+              <span className="elegant-title-italic">Inquire Now</span>
+            </h2>
+            <p className="elegant-desc">Have custom architectural or residential requirements? Fill out the inquiry form below or connect directly with our ceramic specialists at Nagole and Hayathnagar.</p>
+            <div className="section-header-features">
+              <span className="feature-pill">✓ Instant Quotes & Samples</span>
+              <span className="feature-pill">✓ Nagole: +91 92463 51432</span>
+              <span className="feature-pill">✓ Hayathnagar: +91 92463 51432</span>
+            </div>
+          </div>
         </div>
       </section>
 
-      {/* 2. FORM BODY */}
+      {/* 2. FORM BODY WITH LOGO BESIDE REGISTER INTEREST */}
       <section className="form-section container">
         {submissionSuccess ? (
           <div className="glass-card success-card">
-            <div className="success-icon-container"><Check size={32} color="#000" /></div>
+            <div className="success-icon-container"><Check size={32} color="var(--gold-primary)" /></div>
             <h3 className="success-title">INQUIRY LOGGED SECURELY</h3>
             <p className="success-desc">Thank you for registering at Jai Hanuman Tiles. We have saved your preference for '{productInterest}'. Direct draft copy created. You can also send the manifest via WhatsApp instantly below.</p>
             <div className="divider"></div>
@@ -61,23 +68,46 @@ export default function Contact() {
             </div>
           </div>
         ) : (
-          <form className="inquiry-form" onSubmit={handleSubmit}>
-            <span className="form-label">REGISTER INTEREST</span>
-            
-            <input type="text" placeholder="Your full name *" value={clientName} onChange={e => setClientName(e.target.value)} className="form-input" />
-            <input type="tel" placeholder="Your mobile number *" value={clientPhone} onChange={e => setClientPhone(e.target.value)} className="form-input" />
-            <input type="email" placeholder="Your Email Address (Optional)" value={clientEmail} onChange={e => setClientEmail(e.target.value)} className="form-input" />
-            
-            <select value={productInterest} onChange={e => setProductInterest(e.target.value)} className="form-input form-select">
-              {interests.map(i => <option key={i} value={i}>{i}</option>)}
-            </select>
-            
-            <textarea placeholder="Message / Specific dimension requirements" value={clientMessage} onChange={e => setClientMessage(e.target.value)} className="form-input form-textarea"></textarea>
-            
-            {submissionError && <p className="error-text">{submissionError}</p>}
-            
-            <button type="submit" className="luxury-btn primary submit-btn">REGISTER ONLINE REQUEST</button>
-          </form>
+          <div className="register-interest-layout">
+            <div className="register-form-wrap">
+              <form className="inquiry-form" onSubmit={handleSubmit}>
+                <div className="form-title-group">
+                  <span className="form-label">REGISTER INTEREST</span>
+                  <p className="form-sub-hint">Submit your requirements for direct factory pricing & sample booking</p>
+                </div>
+                
+                <input type="text" placeholder="Your full name *" value={clientName} onChange={e => setClientName(e.target.value)} className="form-input" />
+                <input type="tel" placeholder="Your mobile number *" value={clientPhone} onChange={e => setClientPhone(e.target.value)} className="form-input" />
+                <input type="email" placeholder="Your Email Address (Optional)" value={clientEmail} onChange={e => setClientEmail(e.target.value)} className="form-input" />
+                
+                <select value={productInterest} onChange={e => setProductInterest(e.target.value)} className="form-input form-select">
+                  {interests.map(i => <option key={i} value={i}>{i}</option>)}
+                </select>
+                
+                <textarea placeholder="Message / Specific dimension requirements" value={clientMessage} onChange={e => setClientMessage(e.target.value)} className="form-input form-textarea"></textarea>
+                
+                {submissionError && <p className="error-text">{submissionError}</p>}
+                
+                <button type="submit" className="luxury-btn primary submit-btn">REGISTER ONLINE REQUEST</button>
+              </form>
+            </div>
+
+            <div className="section-prominent-logo-box register-side-logo">
+              <img 
+                src="images/logo.png" 
+                alt="Jai Hanuman Tiles & Sanitary Official Brand" 
+                className="section-prominent-logo-img" 
+              />
+              <div className="section-logo-meta">
+                <span className="meta-brand-title">JAI HANUMAN</span>
+                <span className="meta-sub">TILES & SANITARY</span>
+              </div>
+              <div className="register-logo-badges">
+                <span>✓ Authorized Dealer</span>
+                <span>✓ Factory Direct Pricing</span>
+              </div>
+            </div>
+          </div>
         )}
       </section>
 

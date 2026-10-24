@@ -1,13 +1,22 @@
 :root {
-  --charcoal-dark: #0a0a0a;
-  --charcoal-card: #141414;
-  --charcoal-light: #1e1e1e;
-  --gold-primary: #C5A059;
-  --gold-accent: #D4AF37;
-  --text-light: #ffffff;
-  --text-muted: rgba(255, 255, 255, 0.6);
-  --border-light: rgba(255, 255, 255, 0.1);
-  --border-super-light: rgba(255, 255, 255, 0.05);
+  --bg-main: #FFFFFF;
+  --bg-secondary: #F8F9FA;
+  --bg-card: #FFFFFF;
+  --charcoal-dark: #FFFFFF;
+  --charcoal-card: #FFFFFF;
+  --charcoal-light: #F3F4F6;
+  --gold-primary: #A1742A;
+  --gold-accent: #B8860B;
+  --gold-light: #FDF8ED;
+  --text-light: #111827;
+  --text-muted: #4B5563;
+  --text-subtle: #6B7280;
+  --border-light: #E5E7EB;
+  --border-super-light: #F0F2F5;
+  --border-gold: rgba(161, 116, 42, 0.25);
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.04);
+  --shadow-md: 0 6px 20px rgba(0, 0, 0, 0.06);
+  --shadow-lg: 0 12px 32px rgba(0, 0, 0, 0.08);
 }
 
 * {
@@ -18,20 +27,28 @@
 
 body {
   font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-  background-color: var(--charcoal-dark);
+  background-color: var(--bg-main);
   color: var(--text-light);
   line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
 }
 
 .app-container {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+  background-color: var(--bg-main);
 }
 
 .main-content {
   flex: 1;
-  padding-top: 80px; /* Account for fixed navbar */
+  padding-top: 80px; /* Restored for sleek navbar */
+}
+
+@media (max-width: 950px) {
+  .main-content {
+    padding-top: 72px;
+  }
 }
 
 a {
@@ -55,8 +72,8 @@ ul {
 }
 .elegant-category {
   color: var(--gold-primary);
-  font-size: 0.75rem;
-  font-weight: 600;
+  font-size: 0.8rem;
+  font-weight: 700;
   letter-spacing: 2px;
   text-transform: uppercase;
   margin-bottom: 8px;
@@ -69,65 +86,83 @@ ul {
 }
 .elegant-title-normal {
   color: var(--text-light);
-  font-weight: 700;
+  font-weight: 800;
 }
 .elegant-title-italic {
   color: var(--gold-primary);
-  font-weight: 400;
+  font-weight: 500;
   font-style: italic;
 }
 .elegant-desc {
   color: var(--text-muted);
-  font-size: 1rem;
+  font-size: 1.05rem;
   max-width: 600px;
+  line-height: 1.6;
 }
 
-/* Glass Card */
+/* Luxury White Card */
 .glass-card {
-  background-color: var(--charcoal-card);
-  border: 1px solid var(--border-super-light);
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-light);
   border-radius: 16px;
   overflow: hidden;
+  box-shadow: var(--shadow-sm);
+  transition: all 0.3s ease;
+}
+.glass-card:hover {
+  box-shadow: var(--shadow-md);
+  border-color: #D1D5DB;
 }
 
 /* Buttons */
 .luxury-btn {
-  padding: 12px 24px;
+  padding: 13px 26px;
   border-radius: 8px;
-  font-weight: 600;
-  font-size: 0.9rem;
+  font-weight: 700;
+  font-size: 0.85rem;
   letter-spacing: 1px;
   cursor: pointer;
-  transition: all 0.3s ease;
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
   text-align: center;
   display: inline-block;
   text-transform: uppercase;
 }
 .luxury-btn.primary {
-  background-color: var(--gold-primary);
-  color: #000;
-  border: 1px solid var(--gold-primary);
+  background-color: #111827;
+  color: #FFFFFF;
+  border: 1px solid #111827;
+  box-shadow: 0 4px 12px rgba(17, 24, 39, 0.15);
 }
 .luxury-btn.primary:hover {
-  background-color: var(--gold-accent);
+  background-color: var(--gold-primary);
+  border-color: var(--gold-primary);
+  color: #FFFFFF;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 18px rgba(161, 116, 42, 0.25);
 }
 .luxury-btn.secondary {
-  background-color: transparent;
-  color: var(--gold-primary);
-  border: 1px solid var(--gold-primary);
+  background-color: #FFFFFF;
+  color: #111827;
+  border: 1.5px solid #111827;
 }
 .luxury-btn.secondary:hover {
-  background-color: rgba(197, 160, 89, 0.1);
+  background-color: #F3F4F6;
+  border-color: #111827;
+  transform: translateY(-2px);
 }
 
 .whatsapp-btn {
   background-color: #25D366;
-  color: white;
+  color: #FFFFFF;
   border: none;
   display: flex;
   align-items: center;
   gap: 8px;
+  font-weight: 700;
+  box-shadow: 0 4px 14px rgba(37, 211, 102, 0.25);
 }
 .whatsapp-btn:hover {
   background-color: #1ebd5a;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 18px rgba(37, 211, 102, 0.35);
 }

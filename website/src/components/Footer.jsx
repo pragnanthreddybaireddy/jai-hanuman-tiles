@@ -7,11 +7,15 @@ export default function Footer() {
   return (
     <footer className="footer glass">
       <div className="container footer-content">
-        <div className="footer-col">
-          <h3 className="logo">Jai Hanuman <span>Tiles</span></h3>
+        <div className="footer-col footer-brand-col">
+          <div className="footer-logo-wrap">
+            <Link to="/" aria-label="Jai Hanuman Tiles & Sanitary">
+              <img src="images/logo.png" alt="Jai Hanuman Tiles & Sanitary" className="footer-logo-img" />
+            </Link>
+          </div>
           <p className="footer-desc">Premium tiles, flawless sanitary ware, and architectural finish solutions in Hyderabad. Elegance defined.</p>
-          <div className="social-links">
-            <a href="#">IG</a>
+          <div className="footer-dealership-tag">
+            <span>Official Dealer: Kajaria • Somany • Johnson • Nitco • RAK</span>
           </div>
         </div>
         
